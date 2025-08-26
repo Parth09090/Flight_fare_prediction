@@ -1,0 +1,199 @@
+2025-08-04 18:56:33,721 - INFO - Starting flight data collection (including connecting flights)
+2025-08-04 18:56:33,723 - INFO - Search date: 2025-08-04 18:56:33
+2025-08-04 18:56:33,724 - INFO - Fixed departure date: 2025-08-31
+2025-08-04 18:56:33,725 - INFO - Days before departure: 27
+2025-08-04 18:56:33,725 - INFO - Total routes to process: 318
+2025-08-04 18:56:33,726 - INFO - Processing route 1/318: GAU -> IXB
+2025-08-04 18:56:57,279 - INFO - Processing route 2/318: AMD -> BLR
+2025-08-04 18:57:06,869 - INFO - Processing route 3/318: LKO -> VGA
+2025-08-04 18:57:17,980 - INFO - Processing route 4/318: IXC -> BLR
+2025-08-04 18:57:28,248 - INFO - Processing route 5/318: PNQ -> LKO
+2025-08-04 18:57:35,104 - INFO - Processing route 6/318: BHO -> HYD
+2025-08-04 18:57:43,976 - INFO - Processing route 7/318: GAU -> RPR
+2025-08-04 18:57:50,111 - INFO - Processing route 8/318: MAA -> LKO
+2025-08-04 18:58:01,287 - INFO - Processing route 9/318: BOM -> AMD
+2025-08-04 18:58:07,475 - INFO - Processing route 10/318: GAU -> PAT
+2025-08-04 18:58:07,628 - WARNING - Server error for GAU-PAT, attempt 1/3. Waiting 5s...
+2025-08-04 18:58:19,615 - INFO - Saved 636 flights to CSV
+2025-08-04 18:58:19,617 - INFO - Processing route 11/318: GAU -> NAG
+2025-08-04 18:58:19,800 - WARNING - Server error for GAU-NAG, attempt 1/3. Waiting 5s...
+2025-08-04 18:58:35,464 - INFO - Processing route 12/318: BHO -> BOM
+2025-08-04 18:58:44,735 - INFO - Processing route 13/318: JAI -> IXC
+2025-08-04 18:58:45,007 - WARNING - Server error for JAI-IXC, attempt 1/3. Waiting 5s...
+2025-08-04 18:59:00,235 - INFO - Processing route 14/318: TRV -> COK
+2025-08-04 18:59:05,165 - INFO - Processing route 15/318: GAU -> BLR
+2025-08-04 18:59:05,340 - WARNING - Server error for GAU-BLR, attempt 1/3. Waiting 5s...
+2025-08-04 18:59:10,537 - WARNING - Server error for GAU-BLR, attempt 2/3. Waiting 10s...
+2025-08-04 18:59:33,214 - INFO - Processing route 16/318: GAU -> HYD
+2025-08-04 18:59:33,398 - WARNING - Server error for GAU-HYD, attempt 1/3. Waiting 5s...
+2025-08-04 18:59:44,644 - INFO - Processing route 17/318: HYD -> COK
+2025-08-04 18:59:44,797 - WARNING - Server error for HYD-COK, attempt 1/3. Waiting 5s...
+2025-08-04 18:59:56,205 - INFO - Processing route 18/318: DEL -> COK
+2025-08-04 18:59:56,563 - WARNING - Server error for DEL-COK, attempt 1/3. Waiting 5s...
+2025-08-04 19:00:09,511 - INFO - Processing route 19/318: BOM -> IXZ
+2025-08-04 19:00:09,719 - WARNING - Server error for BOM-IXZ, attempt 1/3. Waiting 5s...
+2025-08-04 19:00:24,621 - INFO - Processing route 20/318: IXB -> SXR
+2025-08-04 19:00:31,917 - INFO - Saved 761 flights to CSV
+2025-08-04 19:00:31,919 - INFO - Processing route 21/318: BOM -> CCU
+2025-08-04 19:00:33,056 - WARNING - Server error for BOM-CCU, attempt 1/3. Waiting 5s...
+2025-08-04 19:00:45,900 - INFO - Processing route 22/318: RPR -> BHO
+2025-08-04 19:00:46,379 - WARNING - Server error for RPR-BHO, attempt 1/3. Waiting 5s...
+2025-08-04 19:00:57,265 - INFO - Processing route 23/318: BOM -> BHO
+2025-08-04 19:00:57,435 - WARNING - Server error for BOM-BHO, attempt 1/3. Waiting 5s...
+2025-08-04 19:01:09,630 - INFO - Processing route 24/318: JAI -> VGA
+2025-08-04 19:01:09,820 - WARNING - Server error for JAI-VGA, attempt 1/3. Waiting 5s...
+2025-08-04 19:01:26,837 - INFO - Processing route 25/318: PNQ -> SXR
+2025-08-04 19:01:35,554 - INFO - Processing route 26/318: PNQ -> IXB
+2025-08-04 19:01:49,133 - INFO - Processing route 27/318: BOM -> VGA
+2025-08-04 19:01:57,090 - INFO - Processing route 28/318: NAG -> MAA
+2025-08-04 19:01:57,272 - WARNING - Server error for NAG-MAA, attempt 1/3. Waiting 5s...
+2025-08-04 19:02:10,169 - INFO - Processing route 29/318: IXB -> RPR
+2025-08-04 19:02:10,517 - WARNING - Server error for IXB-RPR, attempt 1/3. Waiting 5s...
+2025-08-04 19:02:20,257 - INFO - Processing route 30/318: MAA -> SXR
+2025-08-04 19:02:20,441 - WARNING - Server error for MAA-SXR, attempt 1/3. Waiting 5s...
+2025-08-04 19:02:34,582 - INFO - Saved 614 flights to CSV
+2025-08-04 19:02:34,584 - INFO - Processing route 31/318: AMD -> COK
+2025-08-04 19:02:34,789 - WARNING - Server error for AMD-COK, attempt 1/3. Waiting 5s...
+2025-08-04 19:02:47,402 - INFO - Processing route 32/318: MAA -> IXB
+2025-08-04 19:02:55,498 - INFO - Processing route 33/318: MAA -> PNQ
+2025-08-04 19:02:55,657 - WARNING - Server error for MAA-PNQ, attempt 1/3. Waiting 5s...
+2025-08-04 19:03:09,837 - INFO - Processing route 34/318: PNQ -> RPR
+2025-08-04 19:03:09,992 - WARNING - Server error for PNQ-RPR, attempt 1/3. Waiting 5s...
+2025-08-04 19:03:21,585 - INFO - Processing route 35/318: BLR -> MAA
+2025-08-04 19:03:21,729 - WARNING - Server error for BLR-MAA, attempt 1/3. Waiting 5s...
+2025-08-04 19:03:33,723 - INFO - Processing route 36/318: GOI -> PNQ
+2025-08-04 19:03:33,904 - WARNING - Server error for GOI-PNQ, attempt 1/3. Waiting 5s...
+2025-08-04 19:03:51,428 - INFO - Processing route 37/318: RPR -> HYD
+2025-08-04 19:03:59,200 - INFO - Processing route 38/318: PNQ -> PAT
+2025-08-04 19:04:07,870 - INFO - Processing route 39/318: TRV -> MAA
+2025-08-04 19:04:08,022 - WARNING - Server error for TRV-MAA, attempt 1/3. Waiting 5s...
+2025-08-04 19:04:25,972 - INFO - Starting flight data collection (including connecting flights)
+2025-08-04 19:04:25,973 - INFO - Search date: 2025-08-04 19:04:25
+2025-08-04 19:04:25,974 - INFO - Fixed departure date: 2025-08-31
+2025-08-04 19:04:25,974 - INFO - Days before departure: 27
+2025-08-04 19:04:25,975 - INFO - Total routes to process: 318
+2025-08-04 19:04:25,976 - INFO - Processing route 1/318: CCU -> PNQ
+2025-08-04 19:04:31,424 - INFO - [OK] Found 98 flights for CCU-PNQ (4 direct, 94 connecting)
+2025-08-04 19:04:32,926 - INFO - Processing route 2/318: RPR -> BHO
+2025-08-04 19:04:37,034 - INFO - [OK] Found 8 flights for RPR-BHO (0 direct, 8 connecting)
+2025-08-04 19:04:38,536 - INFO - Processing route 3/318: AMD -> PAT
+2025-08-04 19:04:45,688 - INFO - [OK] Found 93 flights for AMD-PAT (1 direct, 92 connecting)
+2025-08-04 19:04:47,190 - INFO - Processing route 4/318: DEL -> BOM
+2025-08-04 19:04:54,743 - INFO - [OK] Found 115 flights for DEL-BOM (52 direct, 63 connecting)
+2025-08-04 19:04:56,245 - INFO - Processing route 5/318: IXC -> PAT
+2025-08-04 19:04:56,412 - WARNING - Server error for IXC-PAT, attempt 1/3. Waiting 5s...
+2025-08-04 19:05:06,724 - INFO - [OK] Found 38 flights for IXC-PAT (0 direct, 38 connecting)
+2025-08-04 19:05:08,225 - INFO - Processing route 6/318: GOI -> HYD
+2025-08-04 19:05:08,593 - WARNING - Server error for GOI-HYD, attempt 1/3. Waiting 5s...
+2025-08-04 19:05:19,388 - INFO - [OK] Found 68 flights for GOI-HYD (9 direct, 59 connecting)
+2025-08-04 19:05:20,890 - INFO - Processing route 7/318: DEL -> TRV
+2025-08-04 19:05:21,044 - WARNING - Server error for DEL-TRV, attempt 1/3. Waiting 5s...
+2025-08-04 19:05:42,584 - INFO - [OK] Found 160 flights for DEL-TRV (4 direct, 156 connecting)
+2025-08-04 19:05:44,085 - INFO - Processing route 8/318: AMD -> BLR
+2025-08-04 19:05:44,264 - WARNING - Server error for AMD-BLR, attempt 1/3. Waiting 5s...
+2025-08-04 19:05:55,791 - INFO - [OK] Found 101 flights for AMD-BLR (7 direct, 94 connecting)
+2025-08-04 19:05:57,293 - INFO - Processing route 9/318: AMD -> JAI
+2025-08-04 19:05:57,480 - WARNING - Server error for AMD-JAI, attempt 1/3. Waiting 5s...
+2025-08-04 19:06:09,565 - INFO - [OK] Found 63 flights for AMD-JAI (3 direct, 60 connecting)
+2025-08-04 19:06:11,067 - INFO - Processing route 10/318: TRV -> HYD
+2025-08-04 19:06:16,601 - INFO - [OK] Found 85 flights for TRV-HYD (2 direct, 83 connecting)
+2025-08-04 19:06:18,112 - INFO - Saved 829 flights to CSV
+2025-08-04 19:06:18,113 - INFO - Processing route 11/318: BOM -> TRV
+2025-08-04 19:06:18,309 - WARNING - Server error for BOM-TRV, attempt 1/3. Waiting 5s...
+2025-08-04 19:06:28,187 - INFO - [OK] Found 76 flights for BOM-TRV (3 direct, 73 connecting)
+2025-08-04 19:06:29,689 - INFO - Processing route 12/318: MAA -> PAT
+2025-08-04 19:06:29,864 - WARNING - Server error for MAA-PAT, attempt 1/3. Waiting 5s...
+2025-08-04 19:06:35,043 - WARNING - Server error for MAA-PAT, attempt 2/3. Waiting 10s...
+2025-08-04 19:06:59,052 - INFO - [OK] Found 58 flights for MAA-PAT (2 direct, 56 connecting)
+2025-08-04 19:07:00,554 - INFO - Processing route 13/318: PAT -> VGA
+2025-08-04 19:07:11,101 - INFO - [OK] Found 38 flights for PAT-VGA (0 direct, 38 connecting)
+2025-08-04 19:07:12,603 - INFO - Processing route 14/318: IXC -> BLR
+2025-08-04 19:07:21,209 - INFO - [OK] Found 105 flights for IXC-BLR (3 direct, 102 connecting)
+2025-08-04 19:07:22,711 - INFO - Processing route 15/318: HYD -> LKO
+2025-08-04 19:07:27,461 - INFO - [OK] Found 64 flights for HYD-LKO (3 direct, 61 connecting)
+2025-08-04 19:07:28,963 - INFO - Processing route 16/318: RPR -> VGA
+2025-08-04 19:07:29,240 - ERROR - [X] Failed to fetch data for RPR-VGA
+2025-08-04 19:07:30,741 - INFO - Processing route 17/318: MAA -> JAI
+2025-08-04 19:07:30,921 - WARNING - Server error for MAA-JAI, attempt 1/3. Waiting 5s...
+2025-08-04 19:07:42,338 - INFO - [OK] Found 68 flights for MAA-JAI (1 direct, 67 connecting)
+2025-08-04 19:07:43,840 - INFO - Processing route 18/318: GOI -> BOM
+2025-08-04 19:07:44,014 - WARNING - Server error for GOI-BOM, attempt 1/3. Waiting 5s...
+2025-08-04 19:07:53,261 - INFO - [OK] Found 77 flights for GOI-BOM (19 direct, 58 connecting)
+2025-08-04 19:07:54,763 - INFO - Processing route 19/318: IXC -> RPR
+2025-08-04 19:07:54,952 - WARNING - Server error for IXC-RPR, attempt 1/3. Waiting 5s...
+2025-08-04 19:08:05,463 - INFO - [OK] Found 22 flights for IXC-RPR (0 direct, 22 connecting)
+2025-08-04 19:08:06,965 - INFO - Processing route 20/318: MAA -> RPR
+2025-08-04 19:08:07,149 - WARNING - Server error for MAA-RPR, attempt 1/3. Waiting 5s...
+2025-08-04 19:08:20,131 - INFO - [OK] Found 53 flights for MAA-RPR (1 direct, 52 connecting)
+2025-08-04 19:08:21,643 - INFO - Saved 561 flights to CSV
+2025-08-04 19:08:21,644 - INFO - Processing route 21/318: JAI -> NAG
+2025-08-04 19:08:21,825 - WARNING - Server error for JAI-NAG, attempt 1/3. Waiting 5s...
+2025-08-04 19:08:33,307 - INFO - [OK] Found 34 flights for JAI-NAG (0 direct, 34 connecting)
+2025-08-04 19:08:34,810 - INFO - Processing route 22/318: IXB -> NAG
+2025-08-04 19:08:34,970 - WARNING - Server error for IXB-NAG, attempt 1/3. Waiting 5s...
+2025-08-04 19:08:46,800 - INFO - [OK] Found 37 flights for IXB-NAG (0 direct, 37 connecting)
+2025-08-04 19:08:48,302 - INFO - Processing route 23/318: HYD -> CCU
+2025-08-04 19:08:51,820 - INFO - [OK] Found 46 flights for HYD-CCU (8 direct, 38 connecting)
+2025-08-04 19:08:53,322 - INFO - Processing route 24/318: JAI -> DEL
+2025-08-04 19:08:53,543 - WARNING - Server error for JAI-DEL, attempt 1/3. Waiting 5s...
+2025-08-04 19:08:58,719 - WARNING - Server error for JAI-DEL, attempt 2/3. Waiting 10s...
+2025-08-04 19:09:10,047 - INFO - [OK] Found 5 flights for JAI-DEL (4 direct, 1 connecting)
+2025-08-04 19:09:11,549 - INFO - Processing route 25/318: IXB -> DEL
+2025-08-04 19:09:15,943 - INFO - [OK] Found 80 flights for IXB-DEL (7 direct, 73 connecting)
+2025-08-04 19:09:17,445 - INFO - Processing route 26/318: JAI -> SXR
+2025-08-04 19:09:17,603 - WARNING - Server error for JAI-SXR, attempt 1/3. Waiting 5s...
+2025-08-04 19:09:22,775 - WARNING - Server error for JAI-SXR, attempt 2/3. Waiting 10s...
+2025-08-04 19:09:41,872 - INFO - [OK] Found 43 flights for JAI-SXR (0 direct, 43 connecting)
+2025-08-04 19:09:43,373 - INFO - Processing route 27/318: IXB -> SXR
+2025-08-04 19:09:48,874 - INFO - [OK] Found 40 flights for IXB-SXR (0 direct, 40 connecting)
+2025-08-04 19:09:50,376 - INFO - Processing route 28/318: JAI -> IXC
+2025-08-04 19:09:58,939 - INFO - [OK] Found 61 flights for JAI-IXC (2 direct, 59 connecting)
+2025-08-04 19:10:00,440 - INFO - Processing route 29/318: CCU -> COK
+2025-08-04 19:10:06,946 - INFO - [OK] Found 109 flights for CCU-COK (0 direct, 109 connecting)
+2025-08-04 19:10:08,448 - INFO - Processing route 30/318: PNQ -> PAT
+2025-08-04 19:10:08,617 - WARNING - Server error for PNQ-PAT, attempt 1/3. Waiting 5s...
+2025-08-04 19:10:21,012 - INFO - [OK] Found 100 flights for PNQ-PAT (1 direct, 99 connecting)
+2025-08-04 19:10:22,529 - INFO - Saved 555 flights to CSV
+2025-08-04 19:10:22,532 - INFO - Processing route 31/318: HYD -> TRV
+2025-08-04 19:10:22,687 - WARNING - Server error for HYD-TRV, attempt 1/3. Waiting 5s...
+2025-08-04 19:10:33,871 - INFO - [OK] Found 88 flights for HYD-TRV (2 direct, 86 connecting)
+2025-08-04 19:10:35,373 - INFO - Processing route 32/318: BHO -> IXZ
+2025-08-04 19:10:45,834 - INFO - [OK] Found 25 flights for BHO-IXZ (0 direct, 25 connecting)
+2025-08-04 19:10:47,337 - INFO - Processing route 33/318: AMD -> COK
+2025-08-04 19:10:54,785 - INFO - [OK] Found 61 flights for AMD-COK (0 direct, 61 connecting)
+2025-08-04 19:10:56,287 - INFO - Processing route 34/318: AMD -> GAU
+2025-08-04 19:10:56,437 - WARNING - Server error for AMD-GAU, attempt 1/3. Waiting 5s...
+2025-08-04 19:11:10,407 - INFO - [OK] Found 86 flights for AMD-GAU (0 direct, 86 connecting)
+2025-08-04 19:11:11,909 - INFO - Processing route 35/318: BLR -> PNQ
+2025-08-04 19:11:18,610 - INFO - [OK] Found 22 flights for BLR-PNQ (7 direct, 15 connecting)
+2025-08-04 19:11:20,112 - INFO - Processing route 36/318: PNQ -> BLR
+2025-08-04 19:11:20,385 - WARNING - Server error for PNQ-BLR, attempt 1/3. Waiting 5s...
+2025-08-04 19:11:32,714 - INFO - [OK] Found 22 flights for PNQ-BLR (7 direct, 15 connecting)
+2025-08-04 19:11:34,215 - INFO - Processing route 37/318: PNQ -> JAI
+2025-08-04 19:11:34,381 - WARNING - Server error for PNQ-JAI, attempt 1/3. Waiting 5s...
+2025-08-04 19:11:48,138 - INFO - [OK] Found 41 flights for PNQ-JAI (3 direct, 38 connecting)
+2025-08-04 19:11:49,640 - INFO - Processing route 38/318: IXC -> GAU
+2025-08-04 19:11:57,274 - INFO - [OK] Found 73 flights for IXC-GAU (0 direct, 73 connecting)
+2025-08-04 19:11:58,776 - INFO - Processing route 39/318: JAI -> LKO
+2025-08-04 19:11:58,947 - WARNING - Server error for JAI-LKO, attempt 1/3. Waiting 5s...
+2025-08-04 19:12:04,204 - WARNING - Server error for JAI-LKO, attempt 2/3. Waiting 10s...
+2025-08-04 19:12:22,757 - INFO - [OK] Found 58 flights for JAI-LKO (1 direct, 57 connecting)
+2025-08-04 19:12:24,260 - INFO - Processing route 40/318: JAI -> HYD
+2025-08-04 19:12:29,957 - INFO - [OK] Found 74 flights for JAI-HYD (4 direct, 70 connecting)
+2025-08-04 19:12:31,468 - INFO - Saved 550 flights to CSV
+2025-08-04 19:12:31,469 - INFO - Processing route 41/318: IXB -> HYD
+2025-08-04 19:12:31,621 - WARNING - Server error for IXB-HYD, attempt 1/3. Waiting 5s...
+2025-08-04 19:12:45,893 - INFO - [OK] Found 117 flights for IXB-HYD (2 direct, 115 connecting)
+2025-08-04 19:12:47,395 - INFO - Processing route 42/318: AMD -> MAA
+2025-08-04 19:12:53,444 - INFO - [OK] Found 113 flights for AMD-MAA (2 direct, 111 connecting)
+2025-08-04 19:12:54,946 - INFO - Processing route 43/318: CCU -> IXZ
+2025-08-04 19:12:55,135 - WARNING - Server error for CCU-IXZ, attempt 1/3. Waiting 5s...
+2025-08-04 19:13:05,257 - INFO - [OK] Found 33 flights for CCU-IXZ (3 direct, 30 connecting)
+2025-08-04 19:13:06,758 - INFO - Processing route 44/318: MAA -> GAU
+2025-08-04 19:13:06,910 - WARNING - Server error for MAA-GAU, attempt 1/3. Waiting 5s...
+2025-08-04 19:13:19,198 - INFO - [OK] Found 81 flights for MAA-GAU (3 direct, 78 connecting)
+2025-08-04 19:13:20,700 - INFO - Processing route 45/318: PNQ -> RPR
+2025-08-04 19:13:20,917 - WARNING - Server error for PNQ-RPR, attempt 1/3. Waiting 5s...
+2025-08-04 19:13:30,927 - INFO - [OK] Found 44 flights for PNQ-RPR (1 direct, 43 connecting)
+2025-08-04 19:13:32,429 - INFO - Processing route 46/318: AMD -> IXZ
+2025-08-04 19:13:32,585 - WARNING - Server error for AMD-IXZ, attempt 1/3. Waiting 5s...

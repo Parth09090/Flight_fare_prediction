@@ -1,0 +1,1401 @@
+2025-07-19 15:01:00,568 - INFO - Starting flight data collection for 2025-07-20
+2025-07-19 15:01:00,576 - INFO - Total routes to process: 318
+2025-07-19 15:01:00,578 - INFO - Processing route 1/318: JAI -> IXC
+2025-07-19 15:01:10,405 - INFO - Found 2 flights for JAI-IXC
+2025-07-19 15:01:12,409 - INFO - Processing route 2/318: IXB -> DEL
+2025-07-19 15:01:14,705 - INFO - Found 9 flights for IXB-DEL
+2025-07-19 15:01:16,709 - INFO - Processing route 3/318: IXC -> BOM
+2025-07-19 15:01:19,006 - INFO - Found 5 flights for IXC-BOM
+2025-07-19 15:01:21,009 - INFO - Processing route 4/318: BOM -> PAT
+2025-07-19 15:10:14,141 - INFO - Starting flight data collection
+2025-07-19 15:10:14,143 - INFO - Search date: 2025-07-19
+2025-07-19 15:10:14,145 - INFO - Fixed departure date: 2025-08-31
+2025-07-19 15:10:14,146 - INFO - Days before departure: 43
+2025-07-19 15:10:14,148 - INFO - Total routes to process: 318
+2025-07-19 15:10:14,150 - INFO - Processing route 1/318: JAI -> IXC
+2025-07-19 15:10:17,321 - INFO - Found 2 flights for JAI-IXC
+2025-07-19 15:10:18,324 - INFO - Processing route 2/318: IXB -> DEL
+2025-07-19 15:10:20,614 - INFO - Found 8 flights for IXB-DEL
+2025-07-19 15:10:21,617 - INFO - Processing route 3/318: IXC -> BOM
+2025-07-19 15:10:24,079 - INFO - Found 5 flights for IXC-BOM
+2025-07-19 15:10:25,082 - INFO - Processing route 4/318: BOM -> PAT
+2025-07-19 15:10:27,154 - INFO - Found 4 flights for BOM-PAT
+2025-07-19 15:10:28,157 - INFO - Processing route 5/318: CCU -> SXR
+2025-07-19 15:10:30,120 - WARNING - No flights found for CCU-SXR
+2025-07-19 15:10:31,123 - INFO - Processing route 6/318: LKO -> BOM
+2025-07-19 15:10:33,416 - INFO - Found 9 flights for LKO-BOM
+2025-07-19 15:10:34,420 - INFO - Processing route 7/318: SXR -> VGA
+2025-07-19 15:10:35,034 - ERROR - Request failed for SXR-VGA: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:10:36,039 - INFO - Processing route 8/318: IXC -> RPR
+2025-07-19 15:10:36,570 - ERROR - Request failed for IXC-RPR: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:10:37,575 - INFO - Processing route 9/318: MAA -> COK
+2025-07-19 15:10:39,747 - INFO - Found 6 flights for MAA-COK
+2025-07-19 15:10:40,750 - INFO - Processing route 10/318: PNQ -> LKO
+2025-07-19 15:10:41,213 - ERROR - Request failed for PNQ-LKO: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:10:42,226 - INFO - Saved 34 flights to CSV
+2025-07-19 15:10:42,228 - INFO - Processing route 11/318: IXB -> CCU
+2025-07-19 15:10:42,520 - ERROR - Request failed for IXB-CCU: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:10:43,525 - INFO - Processing route 12/318: PNQ -> BLR
+2025-07-19 15:10:44,045 - ERROR - Request failed for PNQ-BLR: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:10:45,050 - INFO - Processing route 13/318: JAI -> VGA
+2025-07-19 15:10:45,581 - ERROR - Request failed for JAI-VGA: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:10:46,586 - INFO - Processing route 14/318: IXC -> DEL
+2025-07-19 15:10:47,014 - ERROR - Request failed for IXC-DEL: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:10:48,019 - INFO - Processing route 15/318: CCU -> PAT
+2025-07-19 15:10:48,551 - ERROR - Request failed for CCU-PAT: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:10:49,556 - INFO - Processing route 16/318: DEL -> PAT
+2025-07-19 15:10:51,860 - INFO - Found 15 flights for DEL-PAT
+2025-07-19 15:10:52,863 - INFO - Processing route 17/318: IXZ -> VGA
+2025-07-19 15:10:53,466 - ERROR - Request failed for IXZ-VGA: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:10:54,472 - INFO - Processing route 18/318: BOM -> AMD
+2025-07-19 15:11:05,397 - INFO - Starting flight data collection
+2025-07-19 15:11:05,400 - INFO - Search date: 2025-07-19
+2025-07-19 15:11:05,401 - INFO - Fixed departure date: 2025-08-31
+2025-07-19 15:11:05,403 - INFO - Days before departure: 43
+2025-07-19 15:11:05,404 - INFO - Total routes to process: 318
+2025-07-19 15:11:05,406 - INFO - Processing route 1/318: JAI -> IXC
+2025-07-19 15:11:07,086 - INFO - Found 2 flights for JAI-IXC
+2025-07-19 15:11:12,094 - INFO - Processing route 2/318: IXB -> DEL
+2025-07-19 15:11:12,719 - ERROR - Request failed for IXB-DEL: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:11:17,728 - INFO - Processing route 3/318: IXC -> BOM
+2025-07-19 15:11:19,910 - INFO - Found 5 flights for IXC-BOM
+2025-07-19 15:11:24,913 - INFO - Processing route 4/318: CCU -> SXR
+2025-07-19 15:11:25,406 - ERROR - Request failed for CCU-SXR: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:11:30,414 - INFO - Processing route 5/318: BOM -> PAT
+2025-07-19 15:11:32,187 - INFO - Found 4 flights for BOM-PAT
+2025-07-19 15:11:37,194 - INFO - Processing route 6/318: LKO -> BOM
+2025-07-19 15:11:39,481 - INFO - Found 9 flights for LKO-BOM
+2025-07-19 15:11:44,488 - INFO - Processing route 7/318: SXR -> VGA
+2025-07-19 15:11:44,846 - ERROR - Request failed for SXR-VGA: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:11:49,855 - INFO - Processing route 8/318: IXC -> RPR
+2025-07-19 15:11:51,039 - WARNING - No flights found for IXC-RPR
+2025-07-19 15:11:56,046 - INFO - Processing route 9/318: MAA -> COK
+2025-07-19 15:11:56,422 - ERROR - Request failed for MAA-COK: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:12:01,433 - INFO - Processing route 10/318: PNQ -> LKO
+2025-07-19 15:12:03,204 - INFO - Found 1 flights for PNQ-LKO
+2025-07-19 15:12:08,217 - INFO - Saved 21 flights to CSV
+2025-07-19 15:12:08,219 - INFO - Processing route 11/318: IXB -> CCU
+2025-07-19 15:12:09,036 - ERROR - Request failed for IXB-CCU: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:12:14,045 - INFO - Processing route 12/318: PNQ -> BLR
+2025-07-19 15:12:16,722 - INFO - Found 15 flights for PNQ-BLR
+2025-07-19 15:12:21,729 - INFO - Processing route 13/318: JAI -> VGA
+2025-07-19 15:12:22,246 - ERROR - Request failed for JAI-VGA: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:12:27,255 - INFO - Processing route 14/318: IXC -> DEL
+2025-07-19 15:12:29,385 - INFO - Found 7 flights for IXC-DEL
+2025-07-19 15:12:34,392 - INFO - Processing route 15/318: CCU -> PAT
+2025-07-19 15:12:34,881 - ERROR - Request failed for CCU-PAT: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:12:39,890 - INFO - Processing route 16/318: DEL -> PAT
+2025-07-19 15:12:42,362 - INFO - Found 15 flights for DEL-PAT
+2025-07-19 15:12:47,368 - INFO - Processing route 17/318: IXZ -> VGA
+2025-07-19 15:12:47,954 - ERROR - Request failed for IXZ-VGA: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:12:52,963 - INFO - Processing route 18/318: BOM -> AMD
+2025-07-19 15:12:55,155 - INFO - Found 16 flights for BOM-AMD
+2025-07-19 15:13:00,157 - INFO - Processing route 19/318: RPR -> DEL
+2025-07-19 15:13:00,582 - ERROR - Request failed for RPR-DEL: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:13:05,593 - INFO - Processing route 20/318: HYD -> COK
+2025-07-19 15:13:07,746 - INFO - Found 8 flights for HYD-COK
+2025-07-19 15:13:12,763 - INFO - Saved 61 flights to CSV
+2025-07-19 15:13:12,765 - INFO - Processing route 21/318: PNQ -> IXZ
+2025-07-19 15:13:13,446 - ERROR - Request failed for PNQ-IXZ: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:13:18,455 - INFO - Processing route 22/318: JAI -> SXR
+2025-07-19 15:13:19,932 - WARNING - No flights found for JAI-SXR
+2025-07-19 15:13:24,940 - INFO - Processing route 23/318: BLR -> LKO
+2025-07-19 15:13:25,531 - ERROR - Request failed for BLR-LKO: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:13:30,540 - INFO - Processing route 24/318: COK -> LKO
+2025-07-19 15:13:32,186 - WARNING - No flights found for COK-LKO
+2025-07-19 15:13:37,193 - INFO - Processing route 25/318: LKO -> HYD
+2025-07-19 15:13:37,946 - ERROR - Request failed for LKO-HYD: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:13:42,955 - INFO - Processing route 26/318: COK -> BLR
+2025-07-19 15:13:46,012 - INFO - Found 14 flights for COK-BLR
+2025-07-19 15:13:51,019 - INFO - Processing route 27/318: MAA -> AMD
+2025-07-19 15:13:52,616 - INFO - Found 2 flights for MAA-AMD
+2025-07-19 15:13:57,623 - INFO - Processing route 28/318: JAI -> TRV
+2025-07-19 15:13:58,017 - ERROR - Request failed for JAI-TRV: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:14:03,026 - INFO - Processing route 29/318: DEL -> AMD
+2025-07-19 15:14:05,616 - INFO - Found 19 flights for DEL-AMD
+2025-07-19 15:14:10,621 - INFO - Processing route 30/318: BLR -> IXC
+2025-07-19 15:14:11,201 - ERROR - Request failed for BLR-IXC: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:14:16,218 - INFO - Saved 35 flights to CSV
+2025-07-19 15:14:16,219 - INFO - Processing route 31/318: IXC -> IXB
+2025-07-19 15:14:17,570 - WARNING - No flights found for IXC-IXB
+2025-07-19 15:14:22,577 - INFO - Processing route 32/318: COK -> IXZ
+2025-07-19 15:14:23,182 - ERROR - Request failed for COK-IXZ: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:14:28,191 - INFO - Processing route 33/318: AMD -> NAG
+2025-07-19 15:14:29,736 - INFO - Found 2 flights for AMD-NAG
+2025-07-19 15:14:34,741 - INFO - Processing route 34/318: PNQ -> GAU
+2025-07-19 15:14:35,366 - ERROR - Request failed for PNQ-GAU: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:14:40,376 - INFO - Processing route 35/318: GOI -> PNQ
+2025-07-19 15:14:41,512 - WARNING - No flights found for GOI-PNQ
+2025-07-19 15:14:46,519 - INFO - Processing route 36/318: NAG -> VGA
+2025-07-19 15:14:47,039 - ERROR - Request failed for NAG-VGA: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:14:52,048 - INFO - Processing route 37/318: AMD -> MAA
+2025-07-19 15:14:54,005 - INFO - Found 2 flights for AMD-MAA
+2025-07-19 15:14:59,012 - INFO - Processing route 38/318: BOM -> NAG
+2025-07-19 15:14:59,636 - ERROR - Request failed for BOM-NAG: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:15:04,645 - INFO - Processing route 39/318: GAU -> VGA
+2025-07-19 15:15:06,623 - WARNING - No flights found for GAU-VGA
+2025-07-19 15:15:11,630 - INFO - Processing route 40/318: TRV -> IXB
+2025-07-19 15:15:12,229 - ERROR - Request failed for TRV-IXB: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:15:17,244 - INFO - Saved 4 flights to CSV
+2025-07-19 15:15:17,246 - INFO - Processing route 41/318: BLR -> VGA
+2025-07-19 15:15:23,700 - INFO - Found 4 flights for BLR-VGA
+2025-07-19 15:15:28,707 - INFO - Processing route 42/318: AMD -> IXC
+2025-07-19 15:15:30,362 - WARNING - No flights found for AMD-IXC
+2025-07-19 15:15:35,369 - INFO - Processing route 43/318: BOM -> IXC
+2025-07-19 15:15:35,882 - ERROR - Request failed for BOM-IXC: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:15:40,892 - INFO - Processing route 44/318: NAG -> SXR
+2025-07-19 15:15:42,437 - WARNING - No flights found for NAG-SXR
+2025-07-19 15:15:47,444 - INFO - Processing route 45/318: MAA -> LKO
+2025-07-19 15:15:47,967 - ERROR - Request failed for MAA-LKO: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:15:52,976 - INFO - Processing route 46/318: BLR -> GAU
+2025-07-19 15:15:55,450 - INFO - Found 6 flights for BLR-GAU
+2025-07-19 15:16:00,457 - INFO - Processing route 47/318: GAU -> SXR
+2025-07-19 15:16:00,926 - ERROR - Request failed for GAU-SXR: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:16:05,935 - INFO - Processing route 48/318: TRV -> NAG
+2025-07-19 15:16:07,424 - WARNING - No flights found for TRV-NAG
+2025-07-19 15:16:12,432 - INFO - Processing route 49/318: IXB -> IXZ
+2025-07-19 15:16:12,953 - ERROR - Request failed for IXB-IXZ: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:16:17,961 - INFO - Processing route 50/318: COK -> GAU
+2025-07-19 15:16:20,124 - WARNING - No flights found for COK-GAU
+2025-07-19 15:16:25,138 - INFO - Saved 10 flights to CSV
+2025-07-19 15:16:25,139 - INFO - Processing route 51/318: BLR -> SXR
+2025-07-19 15:16:25,522 - ERROR - Request failed for BLR-SXR: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:16:30,531 - INFO - Processing route 52/318: TRV -> MAA
+2025-07-19 15:16:33,037 - INFO - Found 2 flights for TRV-MAA
+2025-07-19 15:16:38,044 - INFO - Processing route 53/318: PNQ -> PAT
+2025-07-19 15:16:53,316 - INFO - Found 1 flights for PNQ-PAT
+2025-07-19 15:16:58,323 - INFO - Processing route 54/318: CCU -> NAG
+2025-07-19 15:17:01,287 - INFO - Found 1 flights for CCU-NAG
+2025-07-19 15:17:06,295 - INFO - Processing route 55/318: LKO -> BLR
+2025-07-19 15:17:07,841 - INFO - Found 6 flights for LKO-BLR
+2025-07-19 15:17:12,848 - INFO - Processing route 56/318: HYD -> LKO
+2025-07-19 15:17:13,366 - ERROR - Request failed for HYD-LKO: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:17:18,375 - INFO - Processing route 57/318: BHO -> PNQ
+2025-07-19 15:17:20,129 - INFO - Found 1 flights for BHO-PNQ
+2025-07-19 15:17:25,136 - INFO - Processing route 58/318: CCU -> IXC
+2025-07-19 15:17:25,659 - ERROR - Request failed for CCU-IXC: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:17:30,668 - INFO - Processing route 59/318: DEL -> IXC
+2025-07-19 15:17:32,948 - INFO - Found 7 flights for DEL-IXC
+2025-07-19 15:17:37,955 - INFO - Processing route 60/318: GOI -> BOM
+2025-07-19 15:17:38,559 - ERROR - Request failed for GOI-BOM: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:17:43,576 - INFO - Saved 18 flights to CSV
+2025-07-19 15:17:43,578 - INFO - Processing route 61/318: MAA -> IXM
+2025-07-19 15:17:45,627 - INFO - Found 9 flights for MAA-IXM
+2025-07-19 15:17:50,634 - INFO - Processing route 62/318: IXC -> IXZ
+2025-07-19 15:17:52,079 - WARNING - No flights found for IXC-IXZ
+2025-07-19 15:17:57,086 - INFO - Processing route 63/318: AMD -> BHO
+2025-07-19 15:17:57,707 - ERROR - Request failed for AMD-BHO: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:18:02,717 - INFO - Processing route 64/318: JAI -> IXB
+2025-07-19 15:18:04,267 - WARNING - No flights found for JAI-IXB
+2025-07-19 15:18:09,274 - INFO - Processing route 65/318: BLR -> PAT
+2025-07-19 15:18:09,995 - ERROR - Request failed for BLR-PAT: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:18:15,004 - INFO - Processing route 66/318: AMD -> JAI
+2025-07-19 15:18:17,168 - INFO - Found 3 flights for AMD-JAI
+2025-07-19 15:18:22,175 - INFO - Processing route 67/318: COK -> PAT
+2025-07-19 15:18:22,900 - ERROR - Request failed for COK-PAT: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:18:27,905 - INFO - Processing route 68/318: BOM -> BHO
+2025-07-19 15:18:30,175 - INFO - Found 3 flights for BOM-BHO
+2025-07-19 15:18:35,183 - INFO - Processing route 69/318: PNQ -> AMD
+2025-07-19 15:18:36,111 - ERROR - Request failed for PNQ-AMD: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:18:41,117 - INFO - Processing route 70/318: BOM -> SXR
+2025-07-19 15:18:43,753 - INFO - Found 2 flights for BOM-SXR
+2025-07-19 15:18:48,767 - INFO - Saved 17 flights to CSV
+2025-07-19 15:18:48,769 - INFO - Processing route 71/318: RPR -> IXZ
+2025-07-19 15:18:49,317 - ERROR - Request failed for RPR-IXZ: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:18:54,326 - INFO - Processing route 72/318: HYD -> IXZ
+2025-07-19 15:18:55,873 - WARNING - No flights found for HYD-IXZ
+2025-07-19 15:19:00,877 - INFO - Processing route 73/318: MAA -> VGA
+2025-07-19 15:19:01,400 - ERROR - Request failed for MAA-VGA: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:19:06,410 - INFO - Processing route 74/318: CCU -> PNQ
+2025-07-19 15:19:08,584 - INFO - Found 4 flights for CCU-PNQ
+2025-07-19 15:19:13,589 - INFO - Processing route 75/318: AMD -> TRV
+2025-07-19 15:19:14,098 - ERROR - Request failed for AMD-TRV: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:19:19,107 - INFO - Processing route 76/318: DEL -> VGA
+2025-07-19 15:19:20,963 - INFO - Found 3 flights for DEL-VGA
+2025-07-19 15:19:25,969 - INFO - Processing route 77/318: GOI -> DEL
+2025-07-19 15:19:26,406 - ERROR - Request failed for GOI-DEL: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:19:31,415 - INFO - Processing route 78/318: JAI -> NAG
+2025-07-19 15:19:32,840 - WARNING - No flights found for JAI-NAG
+2025-07-19 15:19:37,848 - INFO - Processing route 79/318: BOM -> TRV
+2025-07-19 15:19:38,470 - ERROR - Request failed for BOM-TRV: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:19:43,479 - INFO - Processing route 80/318: LKO -> VGA
+2025-07-19 15:19:45,023 - WARNING - No flights found for LKO-VGA
+2025-07-19 15:19:50,037 - INFO - Saved 7 flights to CSV
+2025-07-19 15:19:50,039 - INFO - Processing route 81/318: MAA -> GAU
+2025-07-19 15:19:50,652 - ERROR - Request failed for MAA-GAU: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:19:55,661 - INFO - Processing route 82/318: AMD -> BOM
+2025-07-19 15:19:57,839 - INFO - Found 17 flights for AMD-BOM
+2025-07-19 15:20:02,845 - INFO - Processing route 83/318: TRV -> BHO
+2025-07-19 15:20:04,481 - WARNING - No flights found for TRV-BHO
+2025-07-19 15:20:09,488 - INFO - Processing route 84/318: MAA -> SXR
+2025-07-19 15:20:10,023 - ERROR - Request failed for MAA-SXR: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:20:15,029 - INFO - Processing route 85/318: IXZ -> MAA
+2025-07-19 15:20:16,883 - INFO - Found 4 flights for IXZ-MAA
+2025-07-19 15:20:21,891 - INFO - Processing route 86/318: HYD -> VGA
+2025-07-19 15:20:22,607 - ERROR - Request failed for HYD-VGA: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:20:27,616 - INFO - Processing route 87/318: VGA -> MAA
+2025-07-19 15:20:29,365 - INFO - Found 2 flights for VGA-MAA
+2025-07-19 15:20:34,372 - INFO - Processing route 88/318: CCU -> BHO
+2025-07-19 15:20:34,756 - ERROR - Request failed for CCU-BHO: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:20:39,765 - INFO - Processing route 89/318: DEL -> SXR
+2025-07-19 15:20:41,531 - INFO - Found 9 flights for DEL-SXR
+2025-07-19 15:20:46,539 - INFO - Processing route 90/318: PAT -> VGA
+2025-07-19 15:20:47,077 - ERROR - Request failed for PAT-VGA: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:20:52,093 - INFO - Saved 32 flights to CSV
+2025-07-19 15:20:52,095 - INFO - Processing route 91/318: AMD -> RPR
+2025-07-19 15:20:54,572 - INFO - Found 1 flights for AMD-RPR
+2025-07-19 15:20:59,577 - INFO - Processing route 92/318: CCU -> JAI
+2025-07-19 15:21:00,120 - ERROR - Request failed for CCU-JAI: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:21:05,129 - INFO - Processing route 93/318: BHO -> BOM
+2025-07-19 15:21:07,151 - INFO - Found 3 flights for BHO-BOM
+2025-07-19 15:21:12,158 - INFO - Processing route 94/318: LKO -> GAU
+2025-07-19 15:21:12,583 - ERROR - Request failed for LKO-GAU: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:21:17,592 - INFO - Processing route 95/318: BOM -> RPR
+2025-07-19 15:21:19,541 - INFO - Found 3 flights for BOM-RPR
+2025-07-19 15:21:24,548 - INFO - Processing route 96/318: RPR -> BOM
+2025-07-19 15:21:25,169 - ERROR - Request failed for RPR-BOM: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:21:30,177 - INFO - Processing route 97/318: HYD -> GAU
+2025-07-19 15:21:31,933 - INFO - Found 1 flights for HYD-GAU
+2025-07-19 15:21:36,937 - INFO - Processing route 98/318: CCU -> TRV
+2025-07-19 15:21:37,562 - ERROR - Request failed for CCU-TRV: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:21:42,571 - INFO - Processing route 99/318: DEL -> TRV
+2025-07-19 15:21:44,806 - INFO - Found 4 flights for DEL-TRV
+2025-07-19 15:21:49,813 - INFO - Processing route 100/318: AMD -> DEL
+2025-07-19 15:21:50,230 - ERROR - Request failed for AMD-DEL: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:21:55,246 - INFO - Saved 12 flights to CSV
+2025-07-19 15:21:55,248 - INFO - Processing route 101/318: IXB -> HYD
+2025-07-19 15:21:56,917 - INFO - Found 2 flights for IXB-HYD
+2025-07-19 15:22:01,924 - INFO - Processing route 102/318: PAT -> SXR
+2025-07-19 15:22:02,382 - ERROR - Request failed for PAT-SXR: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:22:07,391 - INFO - Processing route 103/318: MAA -> PAT
+2025-07-19 15:22:08,889 - INFO - Found 2 flights for MAA-PAT
+2025-07-19 15:22:13,896 - INFO - Processing route 104/318: GAU -> IXB
+2025-07-19 15:22:14,425 - ERROR - Request failed for GAU-IXB: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:22:19,434 - INFO - Processing route 105/318: BHO -> DEL
+2025-07-19 15:22:21,191 - INFO - Found 5 flights for BHO-DEL
+2025-07-19 15:22:26,197 - INFO - Processing route 106/318: TRV -> RPR
+2025-07-19 15:22:26,572 - ERROR - Request failed for TRV-RPR: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:22:31,582 - INFO - Processing route 107/318: PNQ -> IXC
+2025-07-19 15:22:33,489 - INFO - Found 1 flights for PNQ-IXC
+2025-07-19 15:22:38,493 - INFO - Processing route 108/318: CCU -> RPR
+2025-07-19 15:22:40,234 - INFO - Found 2 flights for CCU-RPR
+2025-07-19 15:22:45,241 - INFO - Processing route 109/318: LKO -> PAT
+2025-07-19 15:22:45,758 - ERROR - Request failed for LKO-PAT: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:22:50,767 - INFO - Processing route 110/318: JAI -> BHO
+2025-07-19 15:22:52,313 - WARNING - No flights found for JAI-BHO
+2025-07-19 15:22:57,327 - INFO - Saved 12 flights to CSV
+2025-07-19 15:22:57,329 - INFO - Processing route 111/318: HYD -> PAT
+2025-07-19 15:22:57,738 - ERROR - Request failed for HYD-PAT: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:23:02,747 - INFO - Processing route 112/318: BOM -> CCU
+2025-07-19 15:23:05,175 - INFO - Found 17 flights for BOM-CCU
+2025-07-19 15:23:10,181 - INFO - Processing route 113/318: GAU -> NAG
+2025-07-19 15:23:10,542 - ERROR - Request failed for GAU-NAG: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:23:15,552 - INFO - Processing route 114/318: NAG -> MAA
+2025-07-19 15:23:17,403 - WARNING - No flights found for NAG-MAA
+2025-07-19 15:23:22,410 - INFO - Processing route 115/318: TRV -> COK
+2025-07-19 15:23:22,800 - ERROR - Request failed for TRV-COK: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:23:27,810 - INFO - Processing route 116/318: TRV -> DEL
+2025-07-19 15:23:29,280 - INFO - Found 4 flights for TRV-DEL
+2025-07-19 15:23:34,289 - INFO - Processing route 117/318: IXC -> HYD
+2025-07-19 15:23:34,810 - ERROR - Request failed for IXC-HYD: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:23:39,820 - INFO - Processing route 118/318: BLR -> NAG
+2025-07-19 15:23:41,926 - INFO - Found 3 flights for BLR-NAG
+2025-07-19 15:23:46,933 - INFO - Processing route 119/318: BHO -> HYD
+2025-07-19 15:23:47,286 - ERROR - Request failed for BHO-HYD: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:23:52,297 - INFO - Processing route 120/318: CCU -> DEL
+2025-07-19 15:23:54,868 - INFO - Found 20 flights for CCU-DEL
+2025-07-19 15:23:59,883 - INFO - Saved 44 flights to CSV
+2025-07-19 15:23:59,885 - INFO - Processing route 121/318: BLR -> MAA
+2025-07-19 15:24:00,263 - ERROR - Request failed for BLR-MAA: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:24:05,272 - INFO - Processing route 122/318: SXR -> BOM
+2025-07-19 15:24:07,272 - INFO - Found 2 flights for SXR-BOM
+2025-07-19 15:24:12,280 - INFO - Processing route 123/318: RPR -> HYD
+2025-07-19 15:24:12,901 - ERROR - Request failed for RPR-HYD: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:24:17,911 - INFO - Processing route 124/318: AMD -> IXB
+2025-07-19 15:24:20,647 - WARNING - No flights found for AMD-IXB
+2025-07-19 15:24:25,654 - INFO - Processing route 125/318: PNQ -> VGA
+2025-07-19 15:24:26,213 - ERROR - Request failed for PNQ-VGA: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:24:31,229 - INFO - Processing route 126/318: BOM -> IXB
+2025-07-19 15:24:33,335 - INFO - Found 3 flights for BOM-IXB
+2025-07-19 15:24:38,341 - INFO - Processing route 127/318: TRV -> HYD
+2025-07-19 15:24:40,448 - INFO - Found 2 flights for TRV-HYD
+2025-07-19 15:24:45,453 - INFO - Processing route 128/318: COK -> IXC
+2025-07-19 15:24:45,974 - ERROR - Request failed for COK-IXC: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:24:50,983 - INFO - Processing route 129/318: JAI -> BOM
+2025-07-19 15:24:53,476 - INFO - Found 9 flights for JAI-BOM
+2025-07-19 15:24:58,481 - INFO - Processing route 130/318: IXZ -> BOM
+2025-07-19 15:24:59,499 - ERROR - Request failed for IXZ-BOM: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:25:04,513 - INFO - Saved 16 flights to CSV
+2025-07-19 15:25:04,515 - INFO - Processing route 131/318: HYD -> AMD
+2025-07-19 15:25:09,225 - INFO - Found 4 flights for HYD-AMD
+2025-07-19 15:25:14,232 - INFO - Processing route 132/318: VGA -> BOM
+2025-07-19 15:25:16,491 - INFO - Found 2 flights for VGA-BOM
+2025-07-19 15:25:21,497 - INFO - Processing route 133/318: SXR -> DEL
+2025-07-19 15:25:22,236 - ERROR - Request failed for SXR-DEL: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:25:27,246 - INFO - Processing route 134/318: JAI -> RPR
+2025-07-19 15:25:28,686 - WARNING - No flights found for JAI-RPR
+2025-07-19 15:25:33,693 - INFO - Processing route 135/318: PNQ -> SXR
+2025-07-19 15:25:34,205 - ERROR - Request failed for PNQ-SXR: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:25:39,214 - INFO - Processing route 136/318: BLR -> PNQ
+2025-07-19 15:25:41,787 - INFO - Found 15 flights for BLR-PNQ
+2025-07-19 15:25:46,793 - INFO - Processing route 137/318: BOM -> MAA
+2025-07-19 15:25:47,415 - ERROR - Request failed for BOM-MAA: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:25:52,421 - INFO - Processing route 138/318: IXB -> BLR
+2025-07-19 15:25:54,131 - INFO - Found 4 flights for IXB-BLR
+2025-07-19 15:25:59,138 - INFO - Processing route 139/318: COK -> VGA
+2025-07-19 15:25:59,485 - ERROR - Request failed for COK-VGA: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:26:04,494 - INFO - Processing route 140/318: CCU -> IXB
+2025-07-19 15:26:05,993 - INFO - Found 5 flights for CCU-IXB
+2025-07-19 15:26:11,004 - INFO - Saved 30 flights to CSV
+2025-07-19 15:26:11,006 - INFO - Processing route 141/318: DEL -> IXB
+2025-07-19 15:26:11,507 - ERROR - Request failed for DEL-IXB: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:26:16,516 - INFO - Processing route 142/318: PNQ -> TRV
+2025-07-19 15:26:18,105 - WARNING - No flights found for PNQ-TRV
+2025-07-19 15:26:23,112 - INFO - Processing route 143/318: JAI -> DEL
+2025-07-19 15:26:23,531 - ERROR - Request failed for JAI-DEL: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:26:28,537 - INFO - Processing route 144/318: NAG -> BHO
+2025-07-19 15:26:29,808 - WARNING - No flights found for NAG-BHO
+2025-07-19 15:26:34,816 - INFO - Processing route 145/318: IXZ -> DEL
+2025-07-19 15:26:35,137 - ERROR - Request failed for IXZ-DEL: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:26:40,145 - INFO - Processing route 146/318: GAU -> BHO
+2025-07-19 15:26:50,927 - WARNING - No flights found for GAU-BHO
+2025-07-19 15:26:55,934 - INFO - Processing route 147/318: MAA -> NAG
+2025-07-19 15:27:08,261 - WARNING - No flights found for MAA-NAG
+2025-07-19 15:27:13,268 - INFO - Processing route 148/318: VGA -> DEL
+2025-07-19 15:27:15,797 - INFO - Found 3 flights for VGA-DEL
+2025-07-19 15:27:20,801 - INFO - Processing route 149/318: BLR -> BHO
+2025-07-19 15:27:23,495 - INFO - Found 2 flights for BLR-BHO
+2025-07-19 15:27:28,501 - INFO - Processing route 150/318: COK -> BHO
+2025-07-19 15:27:29,423 - WARNING - No flights found for COK-BHO
+2025-07-19 15:27:34,434 - INFO - Saved 5 flights to CSV
+2025-07-19 15:27:34,436 - INFO - Processing route 151/318: BLR -> JAI
+2025-07-19 15:27:34,962 - ERROR - Request failed for BLR-JAI: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:27:39,970 - INFO - Processing route 152/318: DEL -> NAG
+2025-07-19 15:27:42,993 - INFO - Found 5 flights for DEL-NAG
+2025-07-19 15:27:48,000 - INFO - Processing route 153/318: COK -> SXR
+2025-07-19 15:27:48,345 - ERROR - Request failed for COK-SXR: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:27:53,353 - INFO - Processing route 154/318: JAI -> HYD
+2025-07-19 15:27:55,056 - INFO - Found 5 flights for JAI-HYD
+2025-07-19 15:28:00,061 - INFO - Processing route 155/318: IXC -> BLR
+2025-07-19 15:28:00,450 - ERROR - Request failed for IXC-BLR: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:28:05,459 - INFO - Processing route 156/318: DEL -> MAA
+2025-07-19 15:28:10,280 - INFO - Found 20 flights for DEL-MAA
+2025-07-19 15:28:15,287 - INFO - Processing route 157/318: BOM -> PNQ
+2025-07-19 15:28:16,652 - WARNING - No flights found for BOM-PNQ
+2025-07-19 15:28:21,659 - INFO - Processing route 158/318: BHO -> BLR
+2025-07-19 15:28:22,009 - ERROR - Request failed for BHO-BLR: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:28:27,019 - INFO - Processing route 159/318: LKO -> NAG
+2025-07-19 15:28:29,019 - WARNING - No flights found for LKO-NAG
+2025-07-19 15:28:34,026 - INFO - Processing route 160/318: MAA -> IXC
+2025-07-19 15:28:34,623 - ERROR - Request failed for MAA-IXC: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:28:39,636 - INFO - Saved 30 flights to CSV
+2025-07-19 15:28:39,638 - INFO - Processing route 161/318: BLR -> TRV
+2025-07-19 15:28:42,296 - INFO - Found 6 flights for BLR-TRV
+2025-07-19 15:28:47,301 - INFO - Processing route 162/318: IXZ -> CCU
+2025-07-19 15:28:47,670 - ERROR - Request failed for IXZ-CCU: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:28:52,679 - INFO - Processing route 163/318: COK -> TRV
+2025-07-19 15:28:54,417 - INFO - Found 1 flights for COK-TRV
+2025-07-19 15:28:59,421 - INFO - Processing route 164/318: RPR -> BLR
+2025-07-19 15:28:59,887 - ERROR - Request failed for RPR-BLR: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:29:04,903 - INFO - Processing route 165/318: NAG -> BOM
+2025-07-19 15:29:06,753 - INFO - Found 6 flights for NAG-BOM
+2025-07-19 15:29:11,760 - INFO - Processing route 166/318: AMD -> IXZ
+2025-07-19 15:29:12,184 - ERROR - Request failed for AMD-IXZ: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:29:17,193 - INFO - Processing route 167/318: HYD -> NAG
+2025-07-19 15:29:18,526 - INFO - Found 2 flights for HYD-NAG
+2025-07-19 15:29:23,533 - INFO - Processing route 168/318: IXB -> VGA
+2025-07-19 15:29:23,898 - ERROR - Request failed for IXB-VGA: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:29:28,908 - INFO - Processing route 169/318: PAT -> NAG
+2025-07-19 15:29:30,148 - WARNING - No flights found for PAT-NAG
+2025-07-19 15:29:35,153 - INFO - Processing route 170/318: LKO -> IXC
+2025-07-19 15:29:35,597 - ERROR - Request failed for LKO-IXC: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:29:40,610 - INFO - Saved 15 flights to CSV
+2025-07-19 15:29:40,612 - INFO - Processing route 171/318: TRV -> BLR
+2025-07-19 15:29:42,538 - INFO - Found 6 flights for TRV-BLR
+2025-07-19 15:29:47,545 - INFO - Processing route 172/318: NAG -> RPR
+2025-07-19 15:29:47,948 - ERROR - Request failed for NAG-RPR: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:29:52,964 - INFO - Processing route 173/318: BHO -> IXZ
+2025-07-19 15:29:54,079 - WARNING - No flights found for BHO-IXZ
+2025-07-19 15:29:59,087 - INFO - Processing route 174/318: MAA -> PNQ
+2025-07-19 15:30:01,246 - ERROR - Request failed for MAA-PNQ: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:30:06,255 - INFO - Processing route 175/318: HYD -> IXC
+2025-07-19 15:30:07,630 - INFO - Found 2 flights for HYD-IXC
+2025-07-19 15:30:12,637 - INFO - Processing route 176/318: GAU -> RPR
+2025-07-19 15:30:12,997 - ERROR - Request failed for GAU-RPR: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:30:18,005 - INFO - Processing route 177/318: BLR -> RPR
+2025-07-19 15:30:23,154 - INFO - Found 2 flights for BLR-RPR
+2025-07-19 15:30:28,161 - INFO - Processing route 178/318: IXB -> GAU
+2025-07-19 15:30:29,510 - INFO - Found 1 flights for IXB-GAU
+2025-07-19 15:30:34,517 - INFO - Processing route 179/318: BOM -> JAI
+2025-07-19 15:30:34,871 - ERROR - Request failed for BOM-JAI: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:30:39,880 - INFO - Processing route 180/318: DEL -> PNQ
+2025-07-19 15:30:42,311 - INFO - Found 22 flights for DEL-PNQ
+2025-07-19 15:30:47,324 - INFO - Saved 33 flights to CSV
+2025-07-19 15:30:47,326 - INFO - Processing route 181/318: COK -> RPR
+2025-07-19 15:30:47,698 - ERROR - Request failed for COK-RPR: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:30:52,705 - INFO - Processing route 182/318: IXB -> SXR
+2025-07-19 15:30:54,461 - WARNING - No flights found for IXB-SXR
+2025-07-19 15:30:59,465 - INFO - Processing route 183/318: NAG -> DEL
+2025-07-19 15:30:59,883 - ERROR - Request failed for NAG-DEL: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:31:04,892 - INFO - Processing route 184/318: TRV -> IXZ
+2025-07-19 15:31:06,148 - WARNING - No flights found for TRV-IXZ
+2025-07-19 15:31:11,153 - INFO - Processing route 185/318: GAU -> DEL
+2025-07-19 15:31:11,566 - ERROR - Request failed for GAU-DEL: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:31:16,575 - INFO - Processing route 186/318: IXC -> VGA
+2025-07-19 15:31:17,912 - WARNING - No flights found for IXC-VGA
+2025-07-19 15:31:22,920 - INFO - Processing route 187/318: CCU -> IXZ
+2025-07-19 15:31:23,263 - ERROR - Request failed for CCU-IXZ: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:31:28,280 - INFO - Processing route 188/318: COK -> DEL
+2025-07-19 15:31:30,621 - INFO - Found 9 flights for COK-DEL
+2025-07-19 15:31:35,629 - INFO - Processing route 189/318: MAA -> BHO
+2025-07-19 15:31:36,037 - ERROR - Request failed for MAA-BHO: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:31:41,046 - INFO - Processing route 190/318: RPR -> VGA
+2025-07-19 15:31:43,057 - WARNING - No flights found for RPR-VGA
+2025-07-19 15:31:48,071 - INFO - Saved 9 flights to CSV
+2025-07-19 15:31:48,072 - INFO - Processing route 191/318: MAA -> JAI
+2025-07-19 15:31:48,493 - ERROR - Request failed for MAA-JAI: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:31:53,505 - INFO - Processing route 192/318: DEL -> BHO
+2025-07-19 15:31:55,222 - INFO - Found 5 flights for DEL-BHO
+2025-07-19 15:32:00,225 - INFO - Processing route 193/318: NAG -> HYD
+2025-07-19 15:32:00,766 - ERROR - Request failed for NAG-HYD: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:32:05,775 - INFO - Processing route 194/318: IXC -> GAU
+2025-07-19 15:32:07,320 - WARNING - No flights found for IXC-GAU
+2025-07-19 15:32:12,327 - INFO - Processing route 195/318: PNQ -> IXB
+2025-07-19 15:32:12,852 - ERROR - Request failed for PNQ-IXB: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:32:17,861 - INFO - Processing route 196/318: GOI -> HYD
+2025-07-19 15:32:20,428 - INFO - Found 9 flights for GOI-HYD
+2025-07-19 15:32:25,442 - INFO - Processing route 197/318: DEL -> JAI
+2025-07-19 15:32:26,057 - ERROR - Request failed for DEL-JAI: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:32:31,067 - INFO - Processing route 198/318: GAU -> HYD
+2025-07-19 15:32:33,128 - INFO - Found 1 flights for GAU-HYD
+2025-07-19 15:32:38,135 - INFO - Processing route 199/318: IXC -> SXR
+2025-07-19 15:32:38,652 - ERROR - Request failed for IXC-SXR: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:32:43,661 - INFO - Processing route 200/318: GAU -> CCU
+2025-07-19 15:32:46,130 - INFO - Found 9 flights for GAU-CCU
+2025-07-19 15:32:51,144 - INFO - Saved 24 flights to CSV
+2025-07-19 15:32:51,146 - INFO - Processing route 201/318: MAA -> TRV
+2025-07-19 15:32:54,438 - INFO - Found 2 flights for MAA-TRV
+2025-07-19 15:32:59,445 - INFO - Processing route 202/318: IXB -> PAT
+2025-07-19 15:33:00,054 - ERROR - Request failed for IXB-PAT: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:33:05,064 - INFO - Processing route 203/318: LKO -> BHO
+2025-07-19 15:33:06,508 - WARNING - No flights found for LKO-BHO
+2025-07-19 15:33:11,515 - INFO - Processing route 204/318: LKO -> SXR
+2025-07-19 15:33:12,035 - ERROR - Request failed for LKO-SXR: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:33:17,044 - INFO - Processing route 205/318: BLR -> CCU
+2025-07-19 15:33:19,514 - INFO - Found 15 flights for BLR-CCU
+2025-07-19 15:33:24,521 - INFO - Processing route 206/318: JAI -> LKO
+2025-07-19 15:33:25,144 - ERROR - Request failed for JAI-LKO: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:33:30,153 - INFO - Processing route 207/318: JAI -> BLR
+2025-07-19 15:33:32,312 - INFO - Found 6 flights for JAI-BLR
+2025-07-19 15:33:37,319 - INFO - Processing route 208/318: HYD -> BHO
+2025-07-19 15:33:37,843 - ERROR - Request failed for HYD-BHO: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:33:42,853 - INFO - Processing route 209/318: HYD -> SXR
+2025-07-19 15:33:44,497 - WARNING - No flights found for HYD-SXR
+2025-07-19 15:33:49,504 - INFO - Processing route 210/318: SXR -> IXZ
+2025-07-19 15:33:50,030 - ERROR - Request failed for SXR-IXZ: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:33:55,046 - INFO - Saved 23 flights to CSV
+2025-07-19 15:33:55,048 - INFO - Processing route 211/318: AMD -> COK
+2025-07-19 15:33:56,787 - INFO - Found 1 flights for AMD-COK
+2025-07-19 15:34:01,794 - INFO - Processing route 212/318: MAA -> BOM
+2025-07-19 15:34:02,313 - ERROR - Request failed for MAA-BOM: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:34:07,323 - INFO - Processing route 213/318: IXZ -> BLR
+2025-07-19 15:34:09,278 - INFO - Found 1 flights for IXZ-BLR
+2025-07-19 15:34:14,285 - INFO - Processing route 214/318: TRV -> GAU
+2025-07-19 15:34:15,832 - WARNING - No flights found for TRV-GAU
+2025-07-19 15:34:20,837 - INFO - Processing route 215/318: PAT -> BHO
+2025-07-19 15:34:21,462 - ERROR - Request failed for PAT-BHO: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:34:26,472 - INFO - Processing route 216/318: LKO -> TRV
+2025-07-19 15:34:28,734 - WARNING - No flights found for LKO-TRV
+2025-07-19 15:34:33,741 - INFO - Processing route 217/318: PNQ -> NAG
+2025-07-19 15:34:34,267 - ERROR - Request failed for PNQ-NAG: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:34:39,277 - INFO - Processing route 218/318: BOM -> COK
+2025-07-19 15:34:42,047 - INFO - Found 10 flights for BOM-COK
+2025-07-19 15:34:47,055 - INFO - Processing route 219/318: DEL -> BOM
+2025-07-19 15:34:47,503 - ERROR - Request failed for DEL-BOM: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:34:52,513 - INFO - Processing route 220/318: PNQ -> MAA
+2025-07-19 15:34:54,687 - INFO - Found 7 flights for PNQ-MAA
+2025-07-19 15:34:59,703 - INFO - Saved 19 flights to CSV
+2025-07-19 15:34:59,705 - INFO - Processing route 221/318: HYD -> TRV
+2025-07-19 15:35:00,988 - ERROR - Request failed for HYD-TRV: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:35:05,997 - INFO - Processing route 222/318: BLR -> IXB
+2025-07-19 15:35:07,857 - INFO - Found 4 flights for BLR-IXB
+2025-07-19 15:35:12,864 - INFO - Processing route 223/318: MAA -> RPR
+2025-07-19 15:35:13,584 - ERROR - Request failed for MAA-RPR: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:35:18,593 - INFO - Processing route 224/318: JAI -> IXZ
+2025-07-19 15:35:20,143 - WARNING - No flights found for JAI-IXZ
+2025-07-19 15:35:25,150 - INFO - Processing route 225/318: COK -> IXB
+2025-07-19 15:35:25,769 - ERROR - Request failed for COK-IXB: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:35:30,778 - INFO - Processing route 226/318: IXC -> PAT
+2025-07-19 15:35:32,330 - WARNING - No flights found for IXC-PAT
+2025-07-19 15:35:37,337 - INFO - Processing route 227/318: DEL -> RPR
+2025-07-19 15:35:37,672 - ERROR - Request failed for DEL-RPR: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:35:42,683 - INFO - Processing route 228/318: AMD -> HYD
+2025-07-19 15:35:46,368 - INFO - Found 4 flights for AMD-HYD
+2025-07-19 15:35:51,375 - INFO - Processing route 229/318: BOM -> HYD
+2025-07-19 15:35:54,639 - INFO - Found 19 flights for BOM-HYD
+2025-07-19 15:35:59,646 - INFO - Processing route 230/318: LKO -> RPR
+2025-07-19 15:36:00,278 - ERROR - Request failed for LKO-RPR: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:36:05,292 - INFO - Saved 27 flights to CSV
+2025-07-19 15:36:05,293 - INFO - Processing route 231/318: PAT -> BOM
+2025-07-19 15:36:05,843 - WARNING - No flights found for PAT-BOM
+2025-07-19 15:36:10,849 - INFO - Processing route 232/318: HYD -> RPR
+2025-07-19 15:36:11,439 - ERROR - Request failed for HYD-RPR: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:36:16,448 - INFO - Processing route 233/318: COK -> NAG
+2025-07-19 15:36:18,610 - WARNING - No flights found for COK-NAG
+2025-07-19 15:36:23,617 - INFO - Processing route 234/318: CCU -> COK
+2025-07-19 15:36:24,242 - ERROR - Request failed for CCU-COK: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:36:29,257 - INFO - Processing route 235/318: DEL -> COK
+2025-07-19 15:36:32,331 - INFO - Found 9 flights for DEL-COK
+2025-07-19 15:36:37,338 - INFO - Processing route 236/318: TRV -> PAT
+2025-07-19 15:36:37,931 - ERROR - Request failed for TRV-PAT: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:36:42,940 - INFO - Processing route 237/318: COK -> MAA
+2025-07-19 15:36:54,157 - INFO - Found 6 flights for COK-MAA
+2025-07-19 15:36:59,164 - INFO - Processing route 238/318: PAT -> RPR
+2025-07-19 15:37:01,311 - WARNING - No flights found for PAT-RPR
+2025-07-19 15:37:06,318 - INFO - Processing route 239/318: LKO -> DEL
+2025-07-19 15:37:22,631 - INFO - Found 10 flights for LKO-DEL
+2025-07-19 15:37:27,637 - INFO - Processing route 240/318: MAA -> CCU
+2025-07-19 15:37:36,332 - INFO - Found 7 flights for MAA-CCU
+2025-07-19 15:37:41,348 - INFO - Saved 32 flights to CSV
+2025-07-19 15:37:41,350 - INFO - Processing route 241/318: NAG -> BLR
+2025-07-19 15:37:43,231 - INFO - Found 3 flights for NAG-BLR
+2025-07-19 15:37:48,238 - INFO - Processing route 242/318: JAI -> GAU
+2025-07-19 15:37:49,931 - INFO - Found 1 flights for JAI-GAU
+2025-07-19 15:37:54,938 - INFO - Processing route 243/318: GOI -> BLR
+2025-07-19 15:37:57,835 - INFO - Found 13 flights for GOI-BLR
+2025-07-19 15:38:02,843 - INFO - Processing route 244/318: DEL -> HYD
+2025-07-19 15:38:06,427 - INFO - Found 23 flights for DEL-HYD
+2025-07-19 15:38:11,435 - INFO - Processing route 245/318: DEL -> CCU
+2025-07-19 15:38:12,085 - ERROR - Request failed for DEL-CCU: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:38:17,095 - INFO - Processing route 246/318: GAU -> BLR
+2025-07-19 15:38:19,656 - INFO - Found 6 flights for GAU-BLR
+2025-07-19 15:38:24,663 - INFO - Processing route 247/318: PAT -> DEL
+2025-07-19 15:38:25,480 - ERROR - Request failed for PAT-DEL: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:38:30,491 - INFO - Processing route 248/318: LKO -> CCU
+2025-07-19 15:38:32,248 - INFO - Found 1 flights for LKO-CCU
+2025-07-19 15:38:37,255 - INFO - Processing route 249/318: PNQ -> BHO
+2025-07-19 15:38:37,623 - ERROR - Request failed for PNQ-BHO: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:38:42,632 - INFO - Processing route 250/318: PNQ -> JAI
+2025-07-19 15:38:44,682 - INFO - Found 4 flights for PNQ-JAI
+2025-07-19 15:38:49,704 - INFO - Saved 51 flights to CSV
+2025-07-19 15:38:49,706 - INFO - Processing route 251/318: MAA -> IXB
+2025-07-19 15:38:50,263 - ERROR - Request failed for MAA-IXB: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:38:55,275 - INFO - Processing route 252/318: HYD -> CCU
+2025-07-19 15:38:57,750 - INFO - Found 8 flights for HYD-CCU
+2025-07-19 15:39:02,758 - INFO - Processing route 253/318: IXB -> NAG
+2025-07-19 15:39:04,496 - WARNING - No flights found for IXB-NAG
+2025-07-19 15:39:09,503 - INFO - Processing route 254/318: NAG -> IXZ
+2025-07-19 15:39:10,025 - ERROR - Request failed for NAG-IXZ: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:39:15,035 - INFO - Processing route 255/318: CCU -> AMD
+2025-07-19 15:39:17,119 - INFO - Found 5 flights for CCU-AMD
+2025-07-19 15:39:22,126 - INFO - Processing route 256/318: PAT -> HYD
+2025-07-19 15:39:22,622 - ERROR - Request failed for PAT-HYD: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:39:27,631 - INFO - Processing route 257/318: GAU -> IXZ
+2025-07-19 15:39:29,584 - WARNING - No flights found for GAU-IXZ
+2025-07-19 15:39:34,592 - INFO - Processing route 258/318: PAT -> CCU
+2025-07-19 15:39:35,112 - ERROR - Request failed for PAT-CCU: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:39:40,121 - INFO - Processing route 259/318: BLR -> IXZ
+2025-07-19 15:39:42,077 - INFO - Found 1 flights for BLR-IXZ
+2025-07-19 15:39:47,084 - INFO - Processing route 260/318: SXR -> HYD
+2025-07-19 15:39:47,577 - ERROR - Request failed for SXR-HYD: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:39:52,593 - INFO - Saved 14 flights to CSV
+2025-07-19 15:39:52,595 - INFO - Processing route 261/318: LKO -> IXB
+2025-07-19 15:39:54,162 - WARNING - No flights found for LKO-IXB
+2025-07-19 15:39:59,169 - INFO - Processing route 262/318: JAI -> PAT
+2025-07-19 15:40:00,592 - ERROR - Request failed for JAI-PAT: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:40:05,601 - INFO - Processing route 263/318: AMD -> LKO
+2025-07-19 15:40:08,088 - INFO - Found 2 flights for AMD-LKO
+2025-07-19 15:40:13,093 - INFO - Processing route 264/318: AMD -> BLR
+2025-07-19 15:40:13,615 - ERROR - Request failed for AMD-BLR: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:40:18,630 - INFO - Processing route 265/318: HYD -> IXB
+2025-07-19 15:40:20,889 - INFO - Found 2 flights for HYD-IXB
+2025-07-19 15:40:25,903 - INFO - Processing route 266/318: BOM -> LKO
+2025-07-19 15:40:26,313 - ERROR - Request failed for BOM-LKO: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:40:31,322 - INFO - Processing route 267/318: BOM -> BLR
+2025-07-19 15:40:35,102 - INFO - Found 31 flights for BOM-BLR
+2025-07-19 15:40:40,109 - INFO - Processing route 268/318: COK -> JAI
+2025-07-19 15:40:42,083 - WARNING - No flights found for COK-JAI
+2025-07-19 15:40:47,089 - INFO - Processing route 269/318: IXC -> NAG
+2025-07-19 15:40:47,427 - ERROR - Request failed for IXC-NAG: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:40:52,436 - INFO - Processing route 270/318: PNQ -> RPR
+2025-07-19 15:40:54,373 - INFO - Found 1 flights for PNQ-RPR
+2025-07-19 15:40:59,388 - INFO - Saved 36 flights to CSV
+2025-07-19 15:40:59,389 - INFO - Processing route 271/318: VGA -> HYD
+2025-07-19 15:41:00,103 - ERROR - Request failed for VGA-HYD: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:41:05,111 - INFO - Processing route 272/318: RPR -> MAA
+2025-07-19 15:41:06,662 - INFO - Found 1 flights for RPR-MAA
+2025-07-19 15:41:11,669 - INFO - Processing route 273/318: HYD -> MAA
+2025-07-19 15:41:12,257 - ERROR - Request failed for HYD-MAA: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:41:17,267 - INFO - Processing route 274/318: BOM -> IXZ
+2025-07-19 15:41:18,947 - WARNING - No flights found for BOM-IXZ
+2025-07-19 15:41:23,955 - INFO - Processing route 275/318: PNQ -> COK
+2025-07-19 15:41:24,682 - ERROR - Request failed for PNQ-COK: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:41:29,691 - INFO - Processing route 276/318: PNQ -> DEL
+2025-07-19 15:41:32,671 - INFO - Found 23 flights for PNQ-DEL
+2025-07-19 15:41:37,677 - INFO - Processing route 277/318: JAI -> AMD
+2025-07-19 15:41:38,111 - ERROR - Request failed for JAI-AMD: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:41:43,122 - INFO - Processing route 278/318: COK -> BOM
+2025-07-19 15:41:46,603 - INFO - Found 10 flights for COK-BOM
+2025-07-19 15:41:51,610 - INFO - Processing route 279/318: CCU -> LKO
+2025-07-19 15:41:54,559 - INFO - Found 1 flights for CCU-LKO
+2025-07-19 15:41:59,567 - INFO - Processing route 280/318: DEL -> LKO
+2025-07-19 15:41:59,928 - ERROR - Request failed for DEL-LKO: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:42:04,947 - INFO - Saved 35 flights to CSV
+2025-07-19 15:42:04,949 - INFO - Processing route 281/318: CCU -> BLR
+2025-07-19 15:42:07,518 - INFO - Found 16 flights for CCU-BLR
+2025-07-19 15:42:12,525 - INFO - Processing route 282/318: DEL -> BLR
+2025-07-19 15:42:13,082 - ERROR - Request failed for DEL-BLR: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:42:18,091 - INFO - Processing route 283/318: BLR -> AMD
+2025-07-19 15:42:20,290 - INFO - Found 7 flights for BLR-AMD
+2025-07-19 15:42:25,297 - INFO - Processing route 284/318: AMD -> VGA
+2025-07-19 15:42:25,703 - ERROR - Request failed for AMD-VGA: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:42:30,713 - INFO - Processing route 285/318: IXB -> BHO
+2025-07-19 15:42:32,372 - WARNING - No flights found for IXB-BHO
+2025-07-19 15:42:37,380 - INFO - Processing route 286/318: IXC -> PNQ
+2025-07-19 15:42:37,782 - ERROR - Request failed for IXC-PNQ: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:42:42,790 - INFO - Processing route 287/318: BOM -> VGA
+2025-07-19 15:42:44,692 - INFO - Found 2 flights for BOM-VGA
+2025-07-19 15:42:49,700 - INFO - Processing route 288/318: PNQ -> HYD
+2025-07-19 15:42:50,065 - ERROR - Request failed for PNQ-HYD: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:42:55,076 - INFO - Processing route 289/318: MAA -> IXZ
+2025-07-19 15:42:56,842 - INFO - Found 4 flights for MAA-IXZ
+2025-07-19 15:43:01,849 - INFO - Processing route 290/318: BLR -> COK
+2025-07-19 15:43:02,198 - ERROR - Request failed for BLR-COK: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:43:07,215 - INFO - Saved 29 flights to CSV
+2025-07-19 15:43:07,217 - INFO - Processing route 291/318: DEL -> IXZ
+2025-07-19 15:43:09,336 - INFO - Found 1 flights for DEL-IXZ
+2025-07-19 15:43:14,341 - INFO - Processing route 292/318: BHO -> VGA
+2025-07-19 15:43:15,599 - WARNING - No flights found for BHO-VGA
+2025-07-19 15:43:20,606 - INFO - Processing route 293/318: HYD -> PNQ
+2025-07-19 15:43:20,951 - ERROR - Request failed for HYD-PNQ: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:43:25,959 - INFO - Processing route 294/318: PAT -> BLR
+2025-07-19 15:43:26,307 - ERROR - Request failed for PAT-BLR: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:43:31,316 - INFO - Processing route 295/318: GAU -> PAT
+2025-07-19 15:43:33,167 - INFO - Found 2 flights for GAU-PAT
+2025-07-19 15:43:38,173 - INFO - Processing route 296/318: AMD -> GAU
+2025-07-19 15:43:40,597 - INFO - Found 1 flights for AMD-GAU
+2025-07-19 15:43:45,605 - INFO - Processing route 297/318: AMD -> SXR
+2025-07-19 15:43:46,198 - ERROR - Request failed for AMD-SXR: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:43:51,208 - INFO - Processing route 298/318: LKO -> IXZ
+2025-07-19 15:43:52,816 - WARNING - No flights found for LKO-IXZ
+2025-07-19 15:43:57,824 - INFO - Processing route 299/318: SXR -> BLR
+2025-07-19 15:43:58,354 - ERROR - Request failed for SXR-BLR: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:44:03,367 - INFO - Processing route 300/318: BOM -> GAU
+2025-07-19 15:44:05,069 - INFO - Found 3 flights for BOM-GAU
+2025-07-19 15:44:10,086 - INFO - Saved 7 flights to CSV
+2025-07-19 15:44:10,088 - INFO - Processing route 301/318: IXC -> BHO
+2025-07-19 15:44:10,568 - ERROR - Request failed for IXC-BHO: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:44:15,577 - INFO - Processing route 302/318: TRV -> VGA
+2025-07-19 15:44:17,151 - WARNING - No flights found for TRV-VGA
+2025-07-19 15:44:22,157 - INFO - Processing route 303/318: BLR -> HYD
+2025-07-19 15:44:22,561 - ERROR - Request failed for BLR-HYD: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:44:27,571 - INFO - Processing route 304/318: BHO -> SXR
+2025-07-19 15:44:29,514 - WARNING - No flights found for BHO-SXR
+2025-07-19 15:44:34,522 - INFO - Processing route 305/318: PAT -> IXZ
+2025-07-19 15:44:35,144 - ERROR - Request failed for PAT-IXZ: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:44:40,154 - INFO - Processing route 306/318: CCU -> VGA
+2025-07-19 15:44:41,802 - WARNING - No flights found for CCU-VGA
+2025-07-19 15:44:46,810 - INFO - Processing route 307/318: COK -> HYD
+2025-07-19 15:44:47,433 - ERROR - Request failed for COK-HYD: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:44:52,443 - INFO - Processing route 308/318: SXR -> IXC
+2025-07-19 15:44:54,397 - WARNING - No flights found for SXR-IXC
+2025-07-19 15:44:59,405 - INFO - Processing route 309/318: RPR -> BHO
+2025-07-19 15:45:00,129 - ERROR - Request failed for RPR-BHO: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:45:05,139 - INFO - Processing route 310/318: IXB -> RPR
+2025-07-19 15:45:06,541 - WARNING - No flights found for IXB-RPR
+2025-07-19 15:45:11,549 - INFO - Processing route 311/318: RPR -> SXR
+2025-07-19 15:45:11,951 - ERROR - Request failed for RPR-SXR: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:45:16,961 - INFO - Processing route 312/318: HYD -> JAI
+2025-07-19 15:45:18,969 - INFO - Found 5 flights for HYD-JAI
+2025-07-19 15:45:23,976 - INFO - Processing route 313/318: IXC -> TRV
+2025-07-19 15:45:24,603 - ERROR - Request failed for IXC-TRV: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:45:29,622 - INFO - Processing route 314/318: VGA -> BLR
+2025-07-19 15:45:31,367 - INFO - Found 4 flights for VGA-BLR
+2025-07-19 15:45:36,375 - INFO - Processing route 315/318: AMD -> PAT
+2025-07-19 15:45:36,894 - ERROR - Request failed for AMD-PAT: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:45:41,906 - INFO - Processing route 316/318: TRV -> SXR
+2025-07-19 15:45:43,278 - WARNING - No flights found for TRV-SXR
+2025-07-19 15:45:48,285 - INFO - Processing route 317/318: CCU -> GAU
+2025-07-19 15:45:48,772 - ERROR - Request failed for CCU-GAU: 500 Server Error: Internal Server Error for url: https://www.nomadiq.co.in/api/search
+2025-07-19 15:45:53,781 - INFO - Processing route 318/318: DEL -> GAU
+2025-07-19 15:45:56,086 - INFO - Found 13 flights for DEL-GAU
+2025-07-19 15:46:01,103 - INFO - Saved final 22 flights to CSV
+2025-07-19 15:46:01,105 - INFO - Data collection complete!
+2025-07-19 15:46:01,107 - INFO - Successful routes: 118
+2025-07-19 15:46:01,110 - INFO - Failed routes: 200
+2025-07-19 16:47:12,426 - INFO - Starting flight data collection
+2025-07-19 16:47:12,430 - INFO - Search date: 2025-07-19
+2025-07-19 16:47:12,432 - INFO - Fixed departure date: 2025-08-31
+2025-07-19 16:47:12,432 - INFO - Days before departure: 43
+2025-07-19 16:47:12,433 - INFO - Total routes to process: 318
+2025-07-19 16:47:12,435 - INFO - Processing route 1/318: JAI -> IXC
+2025-07-19 16:47:18,174 - INFO - Found 2 flights for JAI-IXC
+2025-07-19 16:47:48,205 - INFO - Processing route 2/318: IXB -> DEL
+2025-07-19 16:47:50,754 - INFO - Found 8 flights for IXB-DEL
+2025-07-19 16:48:20,785 - INFO - Processing route 3/318: IXC -> BOM
+2025-07-19 16:48:23,663 - WARNING - No flights found for IXC-BOM
+2025-07-19 16:48:53,681 - INFO - Processing route 4/318: BOM -> PAT
+2025-07-19 16:48:56,051 - INFO - Found 4 flights for BOM-PAT
+2025-07-19 16:49:26,083 - INFO - Processing route 5/318: CCU -> SXR
+2025-07-19 16:49:27,423 - WARNING - No flights found for CCU-SXR
+2025-07-19 16:49:57,453 - INFO - Processing route 6/318: LKO -> BOM
+2025-07-19 16:49:59,576 - INFO - Found 9 flights for LKO-BOM
+2025-07-19 16:50:29,607 - INFO - Processing route 7/318: SXR -> VGA
+2025-07-19 16:50:31,212 - WARNING - No flights found for SXR-VGA
+2025-07-19 16:51:01,243 - INFO - Processing route 8/318: IXC -> RPR
+2025-07-19 16:51:03,324 - WARNING - No flights found for IXC-RPR
+2025-07-19 16:51:33,343 - INFO - Processing route 9/318: MAA -> COK
+2025-07-19 16:51:35,352 - INFO - Found 6 flights for MAA-COK
+2025-07-19 16:52:05,385 - INFO - Processing route 10/318: PNQ -> LKO
+2025-07-19 16:52:06,973 - INFO - Found 1 flights for PNQ-LKO
+2025-07-19 16:52:37,010 - INFO - Saved 30 flights to CSV
+2025-07-19 16:52:37,011 - INFO - Processing route 11/318: IXB -> CCU
+2025-07-19 16:52:38,273 - INFO - Found 5 flights for IXB-CCU
+2025-07-19 16:53:08,305 - INFO - Processing route 12/318: PNQ -> BLR
+2025-07-19 16:53:10,920 - INFO - Found 15 flights for PNQ-BLR
+2025-07-19 16:53:40,951 - INFO - Processing route 13/318: JAI -> VGA
+2025-07-19 16:53:42,326 - WARNING - No flights found for JAI-VGA
+2025-07-19 16:54:12,358 - INFO - Processing route 14/318: IXC -> DEL
+2025-07-19 16:54:25,473 - INFO - Found 7 flights for IXC-DEL
+2025-07-19 16:54:55,485 - INFO - Processing route 15/318: CCU -> PAT
+2025-07-19 16:54:57,445 - INFO - Found 2 flights for CCU-PAT
+2025-07-19 16:55:27,476 - INFO - Processing route 16/318: DEL -> PAT
+2025-07-19 16:55:29,942 - INFO - Found 15 flights for DEL-PAT
+2025-07-19 16:55:59,965 - INFO - Processing route 17/318: IXZ -> VGA
+2025-07-19 16:56:01,440 - WARNING - No flights found for IXZ-VGA
+2025-07-19 16:56:31,456 - INFO - Processing route 18/318: BOM -> AMD
+2025-07-19 16:56:38,233 - INFO - Found 16 flights for BOM-AMD
+2025-07-19 16:57:08,264 - INFO - Processing route 19/318: RPR -> DEL
+2025-07-19 16:57:20,551 - INFO - Found 5 flights for RPR-DEL
+2025-07-19 16:57:50,583 - INFO - Processing route 20/318: HYD -> COK
+2025-07-19 16:57:52,545 - INFO - Found 8 flights for HYD-COK
+2025-07-19 16:58:22,589 - INFO - Saved 73 flights to CSV
+2025-07-19 16:58:22,590 - INFO - Processing route 21/318: PNQ -> IXZ
+2025-07-19 16:58:23,965 - WARNING - No flights found for PNQ-IXZ
+2025-07-19 16:58:53,996 - INFO - Processing route 22/318: JAI -> SXR
+2025-07-19 16:58:56,041 - WARNING - No flights found for JAI-SXR
+2025-07-19 16:59:26,073 - INFO - Processing route 23/318: BLR -> LKO
+2025-07-19 16:59:27,775 - INFO - Found 6 flights for BLR-LKO
+2025-07-19 16:59:57,806 - INFO - Processing route 24/318: COK -> LKO
+2025-07-19 17:00:00,106 - WARNING - No flights found for COK-LKO
+2025-07-19 17:00:30,145 - INFO - Processing route 25/318: LKO -> HYD
+2025-07-19 17:00:32,334 - INFO - Found 4 flights for LKO-HYD
+2025-07-19 17:01:02,366 - INFO - Processing route 26/318: COK -> BLR
+2025-07-19 17:01:04,455 - INFO - Found 14 flights for COK-BLR
+2025-07-19 17:01:34,487 - INFO - Processing route 27/318: MAA -> AMD
+2025-07-19 17:01:36,932 - INFO - Found 2 flights for MAA-AMD
+2025-07-19 17:02:06,964 - INFO - Processing route 28/318: JAI -> TRV
+2025-07-19 17:02:08,614 - WARNING - No flights found for JAI-TRV
+2025-07-19 17:02:38,633 - INFO - Processing route 29/318: DEL -> AMD
+2025-07-19 17:02:40,702 - INFO - Found 19 flights for DEL-AMD
+2025-07-19 17:03:10,734 - INFO - Processing route 30/318: BLR -> IXC
+2025-07-19 17:03:13,468 - INFO - Found 3 flights for BLR-IXC
+2025-07-19 17:03:43,500 - INFO - Saved 48 flights to CSV
+2025-07-19 17:03:43,501 - INFO - Processing route 31/318: IXC -> IXB
+2025-07-19 17:03:44,658 - WARNING - No flights found for IXC-IXB
+2025-07-19 17:04:14,690 - INFO - Processing route 32/318: COK -> IXZ
+2025-07-19 17:04:15,977 - WARNING - No flights found for COK-IXZ
+2025-07-19 17:04:45,995 - INFO - Processing route 33/318: AMD -> NAG
+2025-07-19 17:04:47,553 - INFO - Found 2 flights for AMD-NAG
+2025-07-19 17:05:17,584 - INFO - Processing route 34/318: PNQ -> GAU
+2025-07-19 17:05:19,560 - INFO - Found 1 flights for PNQ-GAU
+2025-07-19 17:05:49,592 - INFO - Processing route 35/318: GOI -> PNQ
+2025-07-19 17:05:51,229 - INFO - Found 4 flights for GOI-PNQ
+2025-07-19 17:06:21,261 - INFO - Processing route 36/318: NAG -> VGA
+2025-07-19 17:06:23,414 - WARNING - No flights found for NAG-VGA
+2025-07-19 17:06:53,445 - INFO - Processing route 37/318: AMD -> MAA
+2025-07-19 17:07:06,921 - INFO - Found 2 flights for AMD-MAA
+2025-07-19 17:07:36,959 - INFO - Processing route 38/318: BOM -> NAG
+2025-07-19 17:07:39,386 - INFO - Found 6 flights for BOM-NAG
+2025-07-19 17:08:09,417 - INFO - Processing route 39/318: GAU -> VGA
+2025-07-19 17:08:10,836 - WARNING - No flights found for GAU-VGA
+2025-07-19 17:08:40,867 - INFO - Processing route 40/318: TRV -> IXB
+2025-07-19 17:08:42,543 - WARNING - No flights found for TRV-IXB
+2025-07-19 17:09:12,580 - INFO - Saved 15 flights to CSV
+2025-07-19 17:09:12,582 - INFO - Processing route 41/318: BLR -> VGA
+2025-07-19 17:09:13,997 - INFO - Found 4 flights for BLR-VGA
+2025-07-19 17:09:44,028 - INFO - Processing route 42/318: AMD -> IXC
+2025-07-19 17:09:45,024 - WARNING - No flights found for AMD-IXC
+2025-07-19 17:10:15,055 - INFO - Processing route 43/318: BOM -> IXC
+2025-07-19 17:10:16,783 - INFO - Found 5 flights for BOM-IXC
+2025-07-19 17:10:46,814 - INFO - Processing route 44/318: NAG -> SXR
+2025-07-19 17:10:48,239 - WARNING - No flights found for NAG-SXR
+2025-07-19 17:11:18,271 - INFO - Processing route 45/318: MAA -> LKO
+2025-07-19 17:11:19,665 - INFO - Found 1 flights for MAA-LKO
+2025-07-19 17:11:49,696 - INFO - Processing route 46/318: BLR -> GAU
+2025-07-19 17:11:51,841 - INFO - Found 6 flights for BLR-GAU
+2025-07-19 17:12:21,872 - INFO - Processing route 47/318: GAU -> SXR
+2025-07-19 17:12:23,798 - WARNING - No flights found for GAU-SXR
+2025-07-19 17:12:53,829 - INFO - Processing route 48/318: TRV -> NAG
+2025-07-19 17:12:55,205 - WARNING - No flights found for TRV-NAG
+2025-07-19 17:13:25,236 - INFO - Processing route 49/318: IXB -> IXZ
+2025-07-19 17:13:26,471 - WARNING - No flights found for IXB-IXZ
+2025-07-19 17:13:56,502 - INFO - Processing route 50/318: COK -> GAU
+2025-07-19 17:13:57,771 - WARNING - No flights found for COK-GAU
+2025-07-19 17:14:27,776 - INFO - Saved 16 flights to CSV
+2025-07-19 17:14:27,777 - INFO - Processing route 51/318: BLR -> SXR
+2025-07-19 17:14:29,447 - WARNING - No flights found for BLR-SXR
+2025-07-19 17:14:59,479 - INFO - Processing route 52/318: TRV -> MAA
+2025-07-19 17:15:01,389 - INFO - Found 2 flights for TRV-MAA
+2025-07-19 17:15:31,417 - INFO - Processing route 53/318: PNQ -> PAT
+2025-07-19 17:15:33,158 - INFO - Found 1 flights for PNQ-PAT
+2025-07-19 17:16:03,189 - INFO - Processing route 54/318: CCU -> NAG
+2025-07-19 17:16:04,644 - INFO - Found 1 flights for CCU-NAG
+2025-07-19 17:16:34,675 - INFO - Processing route 55/318: LKO -> BLR
+2025-07-19 17:16:47,659 - INFO - Found 6 flights for LKO-BLR
+2025-07-19 17:17:17,690 - INFO - Processing route 56/318: HYD -> LKO
+2025-07-19 17:17:19,648 - INFO - Found 4 flights for HYD-LKO
+2025-07-19 17:17:49,680 - INFO - Processing route 57/318: BHO -> PNQ
+2025-07-19 17:17:50,959 - INFO - Found 1 flights for BHO-PNQ
+2025-07-19 17:18:20,990 - INFO - Processing route 58/318: CCU -> IXC
+2025-07-19 17:18:23,038 - INFO - Found 2 flights for CCU-IXC
+2025-07-19 17:18:53,069 - INFO - Processing route 59/318: DEL -> IXC
+2025-07-19 17:18:54,789 - INFO - Found 7 flights for DEL-IXC
+2025-07-19 17:19:24,820 - INFO - Processing route 60/318: GOI -> BOM
+2025-07-19 17:19:27,331 - INFO - Found 18 flights for GOI-BOM
+2025-07-19 17:19:57,366 - INFO - Saved 42 flights to CSV
+2025-07-19 17:19:57,367 - INFO - Processing route 61/318: MAA -> IXM
+2025-07-19 17:19:59,042 - INFO - Found 9 flights for MAA-IXM
+2025-07-19 17:20:29,073 - INFO - Processing route 62/318: IXC -> IXZ
+2025-07-19 17:20:30,913 - WARNING - No flights found for IXC-IXZ
+2025-07-19 17:21:00,945 - INFO - Processing route 63/318: AMD -> BHO
+2025-07-19 17:21:02,398 - INFO - Found 1 flights for AMD-BHO
+2025-07-19 17:21:32,413 - INFO - Processing route 64/318: JAI -> IXB
+2025-07-19 17:21:33,503 - WARNING - No flights found for JAI-IXB
+2025-07-19 17:22:03,529 - INFO - Processing route 65/318: BLR -> PAT
+2025-07-19 17:22:04,779 - INFO - Found 6 flights for BLR-PAT
+2025-07-19 17:22:34,810 - INFO - Processing route 66/318: AMD -> JAI
+2025-07-19 17:22:36,399 - INFO - Found 3 flights for AMD-JAI
+2025-07-19 17:23:06,430 - INFO - Processing route 67/318: COK -> PAT
+2025-07-19 17:23:07,952 - WARNING - No flights found for COK-PAT
+2025-07-19 17:23:37,984 - INFO - Processing route 68/318: BOM -> BHO
+2025-07-19 17:23:40,543 - INFO - Found 3 flights for BOM-BHO
+2025-07-19 17:24:10,574 - INFO - Processing route 69/318: PNQ -> AMD
+2025-07-19 17:24:12,744 - INFO - Found 5 flights for PNQ-AMD
+2025-07-19 17:24:42,773 - INFO - Processing route 70/318: BOM -> SXR
+2025-07-19 17:24:43,262 - WARNING - No flights found for BOM-SXR
+2025-07-19 17:25:13,286 - INFO - Saved 27 flights to CSV
+2025-07-19 17:25:13,287 - INFO - Processing route 71/318: RPR -> IXZ
+2025-07-19 17:25:14,717 - WARNING - No flights found for RPR-IXZ
+2025-07-19 17:25:44,746 - INFO - Processing route 72/318: HYD -> IXZ
+2025-07-19 17:25:45,925 - WARNING - No flights found for HYD-IXZ
+2025-07-19 17:26:15,956 - INFO - Processing route 73/318: MAA -> VGA
+2025-07-19 17:26:17,701 - INFO - Found 2 flights for MAA-VGA
+2025-07-19 17:26:47,729 - INFO - Processing route 74/318: CCU -> PNQ
+2025-07-19 17:26:49,119 - INFO - Found 4 flights for CCU-PNQ
+2025-07-19 17:27:19,151 - INFO - Processing route 75/318: AMD -> TRV
+2025-07-19 17:27:21,742 - WARNING - No flights found for AMD-TRV
+2025-07-19 17:27:51,774 - INFO - Processing route 76/318: DEL -> VGA
+2025-07-19 17:27:54,708 - INFO - Found 3 flights for DEL-VGA
+2025-07-19 17:28:24,739 - INFO - Processing route 77/318: GOI -> DEL
+2025-07-19 17:28:27,494 - INFO - Found 15 flights for GOI-DEL
+2025-07-19 17:28:57,525 - INFO - Processing route 78/318: JAI -> NAG
+2025-07-19 17:28:59,401 - WARNING - No flights found for JAI-NAG
+2025-07-19 17:29:29,439 - INFO - Processing route 79/318: BOM -> TRV
+2025-07-19 17:29:31,013 - INFO - Found 3 flights for BOM-TRV
+2025-07-19 17:30:01,021 - INFO - Processing route 80/318: LKO -> VGA
+2025-07-19 17:30:02,664 - WARNING - No flights found for LKO-VGA
+2025-07-19 17:30:32,698 - INFO - Saved 27 flights to CSV
+2025-07-19 17:30:32,700 - INFO - Processing route 81/318: MAA -> GAU
+2025-07-19 17:30:34,409 - INFO - Found 3 flights for MAA-GAU
+2025-07-19 17:31:04,420 - INFO - Processing route 82/318: AMD -> BOM
+2025-07-19 17:31:06,616 - INFO - Found 17 flights for AMD-BOM
+2025-07-19 17:31:36,637 - INFO - Processing route 83/318: TRV -> BHO
+2025-07-19 17:31:37,858 - WARNING - No flights found for TRV-BHO
+2025-07-19 17:32:07,889 - INFO - Processing route 84/318: MAA -> SXR
+2025-07-19 17:32:09,630 - WARNING - No flights found for MAA-SXR
+2025-07-19 17:32:39,661 - INFO - Processing route 85/318: IXZ -> MAA
+2025-07-19 17:32:41,672 - INFO - Found 4 flights for IXZ-MAA
+2025-07-19 17:33:11,704 - INFO - Processing route 86/318: HYD -> VGA
+2025-07-19 17:33:13,819 - INFO - Found 6 flights for HYD-VGA
+2025-07-19 17:33:43,825 - INFO - Processing route 87/318: VGA -> MAA
+2025-07-19 17:33:45,350 - INFO - Found 2 flights for VGA-MAA
+2025-07-19 17:34:15,381 - INFO - Processing route 88/318: CCU -> BHO
+2025-07-19 17:34:16,681 - WARNING - No flights found for CCU-BHO
+2025-07-19 17:34:46,712 - INFO - Processing route 89/318: DEL -> SXR
+2025-07-19 17:34:48,708 - INFO - Found 9 flights for DEL-SXR
+2025-07-19 17:35:18,737 - INFO - Processing route 90/318: PAT -> VGA
+2025-07-19 17:35:20,171 - WARNING - No flights found for PAT-VGA
+2025-07-19 17:35:50,211 - INFO - Saved 41 flights to CSV
+2025-07-19 17:35:50,213 - INFO - Processing route 91/318: AMD -> RPR
+2025-07-19 17:35:51,538 - INFO - Found 1 flights for AMD-RPR
+2025-07-19 17:36:21,570 - INFO - Processing route 92/318: CCU -> JAI
+2025-07-19 17:36:24,480 - INFO - Found 4 flights for CCU-JAI
+2025-07-19 17:36:54,509 - INFO - Processing route 93/318: BHO -> BOM
+2025-07-19 17:37:05,136 - INFO - Found 3 flights for BHO-BOM
+2025-07-19 17:37:35,168 - INFO - Processing route 94/318: LKO -> GAU
+2025-07-19 17:37:37,678 - INFO - Found 1 flights for LKO-GAU
+2025-07-19 17:38:07,695 - INFO - Processing route 95/318: BOM -> RPR
+2025-07-19 17:38:10,160 - INFO - Found 3 flights for BOM-RPR
+2025-07-19 17:38:40,177 - INFO - Processing route 96/318: RPR -> BOM
+2025-07-19 17:38:42,517 - INFO - Found 3 flights for RPR-BOM
+2025-07-19 17:39:12,549 - INFO - Processing route 97/318: HYD -> GAU
+2025-07-19 17:39:14,667 - INFO - Found 1 flights for HYD-GAU
+2025-07-19 17:39:44,699 - INFO - Processing route 98/318: CCU -> TRV
+2025-07-19 17:39:46,503 - WARNING - No flights found for CCU-TRV
+2025-07-19 17:40:16,541 - INFO - Processing route 99/318: DEL -> TRV
+2025-07-19 17:40:20,174 - INFO - Found 4 flights for DEL-TRV
+2025-07-19 17:40:50,206 - INFO - Processing route 100/318: AMD -> DEL
+2025-07-19 17:40:52,810 - INFO - Found 21 flights for AMD-DEL
+2025-07-19 17:41:22,853 - INFO - Saved 41 flights to CSV
+2025-07-19 17:41:22,855 - INFO - Processing route 101/318: IXB -> HYD
+2025-07-19 17:41:24,620 - INFO - Found 2 flights for IXB-HYD
+2025-07-19 17:41:54,653 - INFO - Processing route 102/318: PAT -> SXR
+2025-07-19 17:41:56,567 - WARNING - No flights found for PAT-SXR
+2025-07-19 17:42:26,589 - INFO - Processing route 103/318: MAA -> PAT
+2025-07-19 17:42:28,003 - INFO - Found 2 flights for MAA-PAT
+2025-07-19 17:42:58,035 - INFO - Processing route 104/318: GAU -> IXB
+2025-07-19 17:42:59,743 - INFO - Found 1 flights for GAU-IXB
+2025-07-19 17:43:29,775 - INFO - Processing route 105/318: BHO -> DEL
+2025-07-19 17:43:31,825 - INFO - Found 5 flights for BHO-DEL
+2025-07-19 17:44:01,857 - INFO - Processing route 106/318: TRV -> RPR
+2025-07-19 17:44:03,538 - WARNING - No flights found for TRV-RPR
+2025-07-19 17:44:33,569 - INFO - Processing route 107/318: PNQ -> IXC
+2025-07-19 17:44:36,204 - INFO - Found 1 flights for PNQ-IXC
+2025-07-19 17:45:06,236 - INFO - Processing route 108/318: CCU -> RPR
+2025-07-19 17:45:08,563 - INFO - Found 2 flights for CCU-RPR
+2025-07-19 17:45:38,594 - INFO - Processing route 109/318: LKO -> PAT
+2025-07-19 17:45:40,214 - INFO - Found 1 flights for LKO-PAT
+2025-07-19 17:46:10,246 - INFO - Processing route 110/318: JAI -> BHO
+2025-07-19 17:46:12,482 - WARNING - No flights found for JAI-BHO
+2025-07-19 17:46:42,530 - INFO - Saved 14 flights to CSV
+2025-07-19 17:46:42,532 - INFO - Processing route 111/318: HYD -> PAT
+2025-07-19 17:46:52,601 - INFO - Found 5 flights for HYD-PAT
+2025-07-19 17:47:22,629 - INFO - Processing route 112/318: BOM -> CCU
+2025-07-19 17:47:39,919 - INFO - Found 17 flights for BOM-CCU
+2025-07-19 17:48:09,951 - INFO - Processing route 113/318: GAU -> NAG
+2025-07-19 17:48:11,654 - WARNING - No flights found for GAU-NAG
+2025-07-19 17:48:41,687 - INFO - Processing route 114/318: NAG -> MAA
+2025-07-19 17:48:43,396 - WARNING - No flights found for NAG-MAA
+2025-07-19 17:49:13,428 - INFO - Processing route 115/318: TRV -> COK
+2025-07-19 17:49:15,046 - INFO - Found 1 flights for TRV-COK
+2025-07-19 17:49:45,053 - INFO - Processing route 116/318: TRV -> DEL
+2025-07-19 17:49:47,193 - INFO - Found 4 flights for TRV-DEL
+2025-07-19 17:50:17,225 - INFO - Processing route 117/318: IXC -> HYD
+2025-07-19 17:50:19,455 - INFO - Found 2 flights for IXC-HYD
+2025-07-19 17:50:49,487 - INFO - Processing route 118/318: BLR -> NAG
+2025-07-19 17:50:51,397 - INFO - Found 3 flights for BLR-NAG
+2025-07-19 17:51:21,436 - INFO - Processing route 119/318: BHO -> HYD
+2025-07-19 17:51:23,037 - INFO - Found 1 flights for BHO-HYD
+2025-07-19 17:51:53,061 - INFO - Processing route 120/318: CCU -> DEL
+2025-07-19 17:51:55,321 - INFO - Found 20 flights for CCU-DEL
+2025-07-19 17:52:25,362 - INFO - Saved 53 flights to CSV
+2025-07-19 17:52:25,364 - INFO - Processing route 121/318: BLR -> MAA
+2025-07-19 17:52:27,663 - INFO - Found 11 flights for BLR-MAA
+2025-07-19 17:52:57,696 - INFO - Processing route 122/318: SXR -> BOM
+2025-07-19 17:52:59,809 - INFO - Found 2 flights for SXR-BOM
+2025-07-19 17:53:29,841 - INFO - Processing route 123/318: RPR -> HYD
+2025-07-19 17:53:31,617 - INFO - Found 3 flights for RPR-HYD
+2025-07-19 17:54:01,649 - INFO - Processing route 124/318: AMD -> IXB
+2025-07-19 17:54:03,101 - INFO - Found 1 flights for AMD-IXB
+2025-07-19 17:54:33,133 - INFO - Processing route 125/318: PNQ -> VGA
+2025-07-19 17:54:35,208 - WARNING - No flights found for PNQ-VGA
+2025-07-19 17:55:05,242 - INFO - Processing route 126/318: BOM -> IXB
+2025-07-19 17:55:07,005 - INFO - Found 3 flights for BOM-IXB
+2025-07-19 17:55:37,037 - INFO - Processing route 127/318: TRV -> HYD
+2025-07-19 17:55:39,041 - INFO - Found 2 flights for TRV-HYD
+2025-07-19 17:56:09,079 - INFO - Processing route 128/318: COK -> IXC
+2025-07-19 17:56:10,781 - WARNING - No flights found for COK-IXC
+2025-07-19 17:56:40,789 - INFO - Processing route 129/318: JAI -> BOM
+2025-07-19 17:56:48,580 - INFO - Found 9 flights for JAI-BOM
+2025-07-19 17:57:18,612 - INFO - Processing route 130/318: IXZ -> BOM
+2025-07-19 17:57:34,032 - WARNING - No flights found for IXZ-BOM
+2025-07-19 17:58:04,077 - INFO - Saved 31 flights to CSV
+2025-07-19 17:58:04,079 - INFO - Processing route 131/318: HYD -> AMD
+2025-07-19 17:58:05,777 - INFO - Found 5 flights for HYD-AMD
+2025-07-19 17:58:35,805 - INFO - Processing route 132/318: VGA -> BOM
+2025-07-19 17:58:38,956 - INFO - Found 2 flights for VGA-BOM
+2025-07-19 17:59:08,965 - INFO - Processing route 133/318: SXR -> DEL
+2025-07-19 17:59:11,084 - INFO - Found 8 flights for SXR-DEL
+2025-07-19 17:59:41,116 - INFO - Processing route 134/318: JAI -> RPR
+2025-07-19 17:59:42,443 - WARNING - No flights found for JAI-RPR
+2025-07-19 18:00:12,475 - INFO - Processing route 135/318: PNQ -> SXR
+2025-07-19 18:00:14,301 - WARNING - No flights found for PNQ-SXR
+2025-07-19 18:00:44,333 - INFO - Processing route 136/318: BLR -> PNQ
+2025-07-19 18:00:47,042 - INFO - Found 15 flights for BLR-PNQ
+2025-07-19 18:01:17,074 - INFO - Processing route 137/318: BOM -> MAA
+2025-07-19 18:01:20,245 - INFO - Found 17 flights for BOM-MAA
+2025-07-19 18:01:50,277 - INFO - Processing route 138/318: IXB -> BLR
+2025-07-19 18:01:52,011 - INFO - Found 4 flights for IXB-BLR
+2025-07-19 18:02:22,043 - INFO - Processing route 139/318: COK -> VGA
+2025-07-19 18:02:23,619 - WARNING - No flights found for COK-VGA
+2025-07-19 18:02:53,649 - INFO - Processing route 140/318: CCU -> IXB
+2025-07-19 18:02:54,954 - INFO - Found 5 flights for CCU-IXB
+2025-07-19 18:03:25,003 - INFO - Saved 56 flights to CSV
+2025-07-19 18:03:25,005 - INFO - Processing route 141/318: DEL -> IXB
+2025-07-19 18:03:27,106 - INFO - Found 7 flights for DEL-IXB
+2025-07-19 18:03:57,139 - INFO - Processing route 142/318: PNQ -> TRV
+2025-07-19 18:03:58,712 - WARNING - No flights found for PNQ-TRV
+2025-07-19 18:04:28,745 - INFO - Processing route 143/318: JAI -> DEL
+2025-07-19 18:04:30,390 - INFO - Found 4 flights for JAI-DEL
+2025-07-19 18:05:00,422 - INFO - Processing route 144/318: NAG -> BHO
+2025-07-19 18:05:01,710 - WARNING - No flights found for NAG-BHO
+2025-07-19 18:05:31,741 - INFO - Processing route 145/318: IXZ -> DEL
+2025-07-19 18:05:33,673 - INFO - Found 1 flights for IXZ-DEL
+2025-07-19 18:06:03,705 - INFO - Processing route 146/318: GAU -> BHO
+2025-07-19 18:06:05,094 - WARNING - No flights found for GAU-BHO
+2025-07-19 18:06:35,125 - INFO - Processing route 147/318: MAA -> NAG
+2025-07-19 18:06:40,619 - WARNING - No flights found for MAA-NAG
+2025-07-19 18:07:10,652 - INFO - Processing route 148/318: VGA -> DEL
+2025-07-19 18:07:28,533 - INFO - Found 3 flights for VGA-DEL
+2025-07-19 18:07:58,566 - INFO - Processing route 149/318: BLR -> BHO
+2025-07-19 18:08:00,098 - INFO - Found 2 flights for BLR-BHO
+2025-07-19 18:08:30,132 - INFO - Processing route 150/318: COK -> BHO
+2025-07-19 18:08:31,854 - WARNING - No flights found for COK-BHO
+2025-07-19 18:09:01,898 - INFO - Saved 17 flights to CSV
+2025-07-19 18:09:01,902 - INFO - Processing route 151/318: BLR -> JAI
+2025-07-19 18:09:04,602 - INFO - Found 6 flights for BLR-JAI
+2025-07-19 18:09:34,635 - INFO - Processing route 152/318: DEL -> NAG
+2025-07-19 18:09:36,490 - INFO - Found 5 flights for DEL-NAG
+2025-07-19 18:10:06,525 - INFO - Processing route 153/318: COK -> SXR
+2025-07-19 18:10:07,874 - WARNING - No flights found for COK-SXR
+2025-07-19 18:10:37,908 - INFO - Processing route 154/318: JAI -> HYD
+2025-07-19 18:10:39,531 - INFO - Found 5 flights for JAI-HYD
+2025-07-19 18:11:09,563 - INFO - Processing route 155/318: IXC -> BLR
+2025-07-19 18:11:11,312 - INFO - Found 3 flights for IXC-BLR
+2025-07-19 18:11:41,341 - INFO - Processing route 156/318: DEL -> MAA
+2025-07-19 18:11:45,889 - INFO - Found 20 flights for DEL-MAA
+2025-07-19 18:12:15,893 - INFO - Processing route 157/318: BOM -> PNQ
+2025-07-19 18:12:17,254 - WARNING - No flights found for BOM-PNQ
+2025-07-19 18:12:47,286 - INFO - Processing route 158/318: BHO -> BLR
+2025-07-19 18:12:48,804 - INFO - Found 2 flights for BHO-BLR
+2025-07-19 18:13:18,812 - INFO - Processing route 159/318: LKO -> NAG
+2025-07-19 18:13:19,976 - WARNING - No flights found for LKO-NAG
+2025-07-19 18:13:50,009 - INFO - Processing route 160/318: MAA -> IXC
+2025-07-19 18:13:51,839 - INFO - Found 1 flights for MAA-IXC
+2025-07-19 18:14:21,891 - INFO - Saved 42 flights to CSV
+2025-07-19 18:14:21,895 - INFO - Processing route 161/318: BLR -> TRV
+2025-07-19 18:14:25,277 - INFO - Found 6 flights for BLR-TRV
+2025-07-19 18:14:55,312 - INFO - Processing route 162/318: IXZ -> CCU
+2025-07-19 18:14:56,949 - INFO - Found 3 flights for IXZ-CCU
+2025-07-19 18:15:26,959 - INFO - Processing route 163/318: COK -> TRV
+2025-07-19 18:15:28,407 - INFO - Found 1 flights for COK-TRV
+2025-07-19 18:15:58,440 - INFO - Processing route 164/318: RPR -> BLR
+2025-07-19 18:16:00,123 - INFO - Found 2 flights for RPR-BLR
+2025-07-19 18:16:30,156 - INFO - Processing route 165/318: NAG -> BOM
+2025-07-19 18:16:33,405 - INFO - Found 6 flights for NAG-BOM
+2025-07-19 18:17:03,437 - INFO - Processing route 166/318: AMD -> IXZ
+2025-07-19 18:17:09,770 - WARNING - No flights found for AMD-IXZ
+2025-07-19 18:17:39,802 - INFO - Processing route 167/318: HYD -> NAG
+2025-07-19 18:17:41,208 - INFO - Found 2 flights for HYD-NAG
+2025-07-19 18:18:11,241 - INFO - Processing route 168/318: IXB -> VGA
+2025-07-19 18:18:12,910 - WARNING - No flights found for IXB-VGA
+2025-07-19 18:18:42,942 - INFO - Processing route 169/318: PAT -> NAG
+2025-07-19 18:18:44,125 - WARNING - No flights found for PAT-NAG
+2025-07-19 18:19:14,158 - INFO - Processing route 170/318: LKO -> IXC
+2025-07-19 18:19:15,731 - INFO - Found 1 flights for LKO-IXC
+2025-07-19 18:19:45,779 - INFO - Saved 21 flights to CSV
+2025-07-19 18:19:45,782 - INFO - Processing route 171/318: TRV -> BLR
+2025-07-19 18:19:47,381 - INFO - Found 6 flights for TRV-BLR
+2025-07-19 18:20:17,414 - INFO - Processing route 172/318: NAG -> RPR
+2025-07-19 18:20:18,731 - WARNING - No flights found for NAG-RPR
+2025-07-19 18:20:48,764 - INFO - Processing route 173/318: BHO -> IXZ
+2025-07-19 18:20:50,704 - WARNING - No flights found for BHO-IXZ
+2025-07-19 18:21:20,742 - INFO - Processing route 174/318: MAA -> PNQ
+2025-07-19 18:21:22,873 - INFO - Found 7 flights for MAA-PNQ
+2025-07-19 18:21:52,905 - INFO - Processing route 175/318: HYD -> IXC
+2025-07-19 18:21:54,439 - INFO - Found 2 flights for HYD-IXC
+2025-07-19 18:22:24,478 - INFO - Processing route 176/318: GAU -> RPR
+2025-07-19 18:22:26,715 - WARNING - No flights found for GAU-RPR
+2025-07-19 18:22:56,745 - INFO - Processing route 177/318: BLR -> RPR
+2025-07-19 18:22:59,097 - INFO - Found 2 flights for BLR-RPR
+2025-07-19 18:23:29,129 - INFO - Processing route 178/318: IXB -> GAU
+2025-07-19 18:23:30,331 - INFO - Found 1 flights for IXB-GAU
+2025-07-19 18:24:00,344 - INFO - Processing route 179/318: BOM -> JAI
+2025-07-19 18:24:02,305 - INFO - Found 9 flights for BOM-JAI
+2025-07-19 18:24:32,337 - INFO - Processing route 180/318: DEL -> PNQ
+2025-07-19 18:24:35,612 - INFO - Found 22 flights for DEL-PNQ
+2025-07-19 18:25:05,662 - INFO - Saved 49 flights to CSV
+2025-07-19 18:25:05,664 - INFO - Processing route 181/318: COK -> RPR
+2025-07-19 18:25:10,658 - WARNING - No flights found for COK-RPR
+2025-07-19 18:25:40,689 - INFO - Processing route 182/318: IXB -> SXR
+2025-07-19 18:25:42,197 - WARNING - No flights found for IXB-SXR
+2025-07-19 18:26:12,230 - INFO - Processing route 183/318: NAG -> DEL
+2025-07-19 18:26:15,071 - INFO - Found 5 flights for NAG-DEL
+2025-07-19 18:26:45,073 - INFO - Processing route 184/318: TRV -> IXZ
+2025-07-19 18:26:57,703 - WARNING - No flights found for TRV-IXZ
+2025-07-19 18:27:27,735 - INFO - Processing route 185/318: GAU -> DEL
+2025-07-19 18:27:33,619 - INFO - Found 13 flights for GAU-DEL
+2025-07-19 18:28:03,645 - INFO - Processing route 186/318: IXC -> VGA
+2025-07-19 18:28:11,699 - WARNING - No flights found for IXC-VGA
+2025-07-19 18:28:41,725 - INFO - Processing route 187/318: CCU -> IXZ
+2025-07-19 18:28:43,378 - INFO - Found 3 flights for CCU-IXZ
+2025-07-19 18:29:13,410 - INFO - Processing route 188/318: COK -> DEL
+2025-07-19 18:29:16,107 - INFO - Found 9 flights for COK-DEL
+2025-07-19 18:29:46,140 - INFO - Processing route 189/318: MAA -> BHO
+2025-07-19 18:29:47,760 - WARNING - No flights found for MAA-BHO
+2025-07-19 18:30:17,792 - INFO - Processing route 190/318: RPR -> VGA
+2025-07-19 18:30:20,051 - WARNING - No flights found for RPR-VGA
+2025-07-19 18:30:50,111 - INFO - Saved 30 flights to CSV
+2025-07-19 18:30:50,113 - INFO - Processing route 191/318: MAA -> JAI
+2025-07-19 18:30:52,264 - INFO - Found 1 flights for MAA-JAI
+2025-07-19 18:31:22,297 - INFO - Processing route 192/318: DEL -> BHO
+2025-07-19 18:31:26,059 - INFO - Found 5 flights for DEL-BHO
+2025-07-19 18:31:56,098 - INFO - Processing route 193/318: NAG -> HYD
+2025-07-19 18:31:58,285 - INFO - Found 2 flights for NAG-HYD
+2025-07-19 18:32:28,319 - INFO - Processing route 194/318: IXC -> GAU
+2025-07-19 18:32:29,519 - WARNING - No flights found for IXC-GAU
+2025-07-19 18:32:59,552 - INFO - Processing route 195/318: PNQ -> IXB
+2025-07-19 18:33:01,286 - WARNING - No flights found for PNQ-IXB
+2025-07-19 18:33:31,326 - INFO - Processing route 196/318: GOI -> HYD
+2025-07-19 18:33:33,647 - INFO - Found 9 flights for GOI-HYD
+2025-07-19 18:34:03,689 - INFO - Processing route 197/318: DEL -> JAI
+2025-07-19 18:34:05,758 - INFO - Found 4 flights for DEL-JAI
+2025-07-19 18:34:35,767 - INFO - Processing route 198/318: GAU -> HYD
+2025-07-19 18:34:37,443 - INFO - Found 1 flights for GAU-HYD
+2025-07-19 18:35:07,476 - INFO - Processing route 199/318: IXC -> SXR
+2025-07-19 18:35:09,082 - WARNING - No flights found for IXC-SXR
+2025-07-19 18:35:39,114 - INFO - Processing route 200/318: GAU -> CCU
+2025-07-19 18:35:41,546 - INFO - Found 9 flights for GAU-CCU
+2025-07-19 18:36:11,588 - INFO - Saved 31 flights to CSV
+2025-07-19 18:36:11,591 - INFO - Processing route 201/318: MAA -> TRV
+2025-07-19 18:36:13,042 - INFO - Found 2 flights for MAA-TRV
+2025-07-19 19:54:24,855 - INFO - Processing route 202/318: IXB -> PAT
+2025-07-19 19:54:27,310 - WARNING - No flights found for IXB-PAT
+2025-07-19 19:54:57,340 - INFO - Processing route 203/318: LKO -> BHO
+2025-07-19 19:54:59,238 - WARNING - No flights found for LKO-BHO
+2025-07-19 19:55:29,259 - INFO - Processing route 204/318: LKO -> SXR
+2025-07-19 19:55:30,678 - WARNING - No flights found for LKO-SXR
+2025-07-19 19:56:00,710 - INFO - Processing route 205/318: BLR -> CCU
+2025-07-19 19:56:04,485 - INFO - Found 15 flights for BLR-CCU
+2025-07-19 19:56:34,517 - INFO - Processing route 206/318: JAI -> LKO
+2025-07-19 19:56:38,558 - INFO - Found 1 flights for JAI-LKO
+2025-07-19 19:57:08,590 - INFO - Processing route 207/318: JAI -> BLR
+2025-07-19 19:57:21,530 - INFO - Found 6 flights for JAI-BLR
+2025-07-19 19:57:51,564 - INFO - Processing route 208/318: HYD -> BHO
+2025-07-19 19:57:54,344 - INFO - Found 1 flights for HYD-BHO
+2025-07-19 19:58:24,365 - INFO - Processing route 209/318: HYD -> SXR
+2025-07-19 19:58:26,110 - WARNING - No flights found for HYD-SXR
+2025-07-19 19:58:56,143 - INFO - Processing route 210/318: SXR -> IXZ
+2025-07-19 19:58:57,826 - WARNING - No flights found for SXR-IXZ
+2025-07-19 19:59:27,873 - INFO - Saved 25 flights to CSV
+2025-07-19 19:59:27,877 - INFO - Processing route 211/318: AMD -> COK
+2025-07-19 19:59:29,551 - INFO - Found 1 flights for AMD-COK
+2025-07-19 19:59:59,583 - INFO - Processing route 212/318: MAA -> BOM
+2025-07-19 20:00:02,146 - INFO - Found 17 flights for MAA-BOM
+2025-07-19 20:00:32,179 - INFO - Processing route 213/318: IXZ -> BLR
+2025-07-19 20:00:34,025 - INFO - Found 1 flights for IXZ-BLR
+2025-07-19 20:01:04,057 - INFO - Processing route 214/318: PAT -> BHO
+2025-07-19 20:01:05,460 - WARNING - No flights found for PAT-BHO
+2025-07-19 20:01:35,493 - INFO - Processing route 215/318: TRV -> GAU
+2025-07-19 20:01:37,318 - WARNING - No flights found for TRV-GAU
+2025-07-19 20:02:07,350 - INFO - Processing route 216/318: LKO -> TRV
+2025-07-19 20:02:08,872 - WARNING - No flights found for LKO-TRV
+2025-07-19 20:02:38,904 - INFO - Processing route 217/318: PNQ -> NAG
+2025-07-19 20:02:40,716 - INFO - Found 3 flights for PNQ-NAG
+2025-07-19 20:03:10,748 - INFO - Processing route 218/318: BOM -> COK
+2025-07-19 20:03:13,315 - INFO - Found 10 flights for BOM-COK
+2025-07-19 20:03:43,347 - INFO - Processing route 219/318: DEL -> BOM
+2025-07-19 20:03:47,073 - INFO - Found 52 flights for DEL-BOM
+2025-07-19 20:04:17,105 - INFO - Processing route 220/318: PNQ -> MAA
+2025-07-19 20:04:19,321 - INFO - Found 7 flights for PNQ-MAA
+2025-07-19 20:04:49,360 - INFO - Saved 91 flights to CSV
+2025-07-19 20:04:49,364 - INFO - Processing route 221/318: HYD -> TRV
+2025-07-19 20:04:51,288 - INFO - Found 2 flights for HYD-TRV
+2025-07-19 20:05:21,321 - INFO - Processing route 222/318: BLR -> IXB
+2025-07-19 20:05:23,446 - INFO - Found 4 flights for BLR-IXB
+2025-07-19 20:05:53,478 - INFO - Processing route 223/318: MAA -> RPR
+2025-07-19 20:05:54,988 - INFO - Found 1 flights for MAA-RPR
+2025-07-19 20:06:25,020 - INFO - Processing route 224/318: COK -> IXB
+2025-07-19 20:06:26,636 - WARNING - No flights found for COK-IXB
+2025-07-19 20:06:56,668 - INFO - Processing route 225/318: JAI -> IXZ
+2025-07-19 20:07:07,378 - WARNING - No flights found for JAI-IXZ
+2025-07-19 20:07:37,408 - INFO - Processing route 226/318: IXC -> PAT
+2025-07-19 20:07:40,480 - WARNING - No flights found for IXC-PAT
+2025-07-19 20:08:10,512 - INFO - Processing route 227/318: DEL -> RPR
+2025-07-19 20:08:12,763 - INFO - Found 5 flights for DEL-RPR
+2025-07-19 20:08:42,796 - INFO - Processing route 228/318: AMD -> HYD
+2025-07-19 20:08:45,137 - INFO - Found 5 flights for AMD-HYD
+2025-07-19 20:09:15,168 - INFO - Processing route 229/318: BOM -> HYD
+2025-07-19 20:09:17,427 - INFO - Found 19 flights for BOM-HYD
+2025-07-19 20:09:47,459 - INFO - Processing route 230/318: LKO -> RPR
+2025-07-19 20:09:49,271 - INFO - Found 1 flights for LKO-RPR
+2025-07-19 20:10:19,291 - INFO - Saved 37 flights to CSV
+2025-07-19 20:10:19,293 - INFO - Processing route 231/318: PAT -> BOM
+2025-07-19 20:10:21,337 - INFO - Found 4 flights for PAT-BOM
+2025-07-19 20:10:51,369 - INFO - Processing route 232/318: HYD -> RPR
+2025-07-19 20:10:53,097 - INFO - Found 3 flights for HYD-RPR
+2025-07-19 20:11:23,130 - INFO - Processing route 233/318: COK -> NAG
+2025-07-19 20:11:24,950 - WARNING - No flights found for COK-NAG
+2025-07-19 20:11:54,982 - INFO - Processing route 234/318: CCU -> COK
+2025-07-19 20:11:57,107 - WARNING - No flights found for CCU-COK
+2025-07-19 20:12:27,138 - INFO - Processing route 235/318: DEL -> COK
+2025-07-19 20:12:29,415 - INFO - Found 9 flights for DEL-COK
+2025-07-19 20:12:59,447 - INFO - Processing route 236/318: TRV -> PAT
+2025-07-19 20:13:01,141 - WARNING - No flights found for TRV-PAT
+2025-07-19 20:13:31,173 - INFO - Processing route 237/318: COK -> MAA
+2025-07-19 20:13:33,324 - INFO - Found 6 flights for COK-MAA
+2025-07-19 20:14:03,355 - INFO - Processing route 238/318: PAT -> RPR
+2025-07-19 20:14:05,263 - WARNING - No flights found for PAT-RPR
+2025-07-19 20:14:35,276 - INFO - Processing route 239/318: LKO -> DEL
+2025-07-19 20:14:37,471 - INFO - Found 10 flights for LKO-DEL
+2025-07-19 20:15:07,500 - INFO - Processing route 240/318: MAA -> CCU
+2025-07-19 20:15:10,038 - INFO - Found 7 flights for MAA-CCU
+2025-07-19 20:15:40,080 - INFO - Saved 39 flights to CSV
+2025-07-19 20:15:40,082 - INFO - Processing route 241/318: NAG -> BLR
+2025-07-19 20:15:41,688 - INFO - Found 3 flights for NAG-BLR
+2025-07-19 20:16:11,720 - INFO - Processing route 242/318: JAI -> GAU
+2025-07-19 20:16:13,742 - INFO - Found 1 flights for JAI-GAU
+2025-07-19 20:16:43,774 - INFO - Processing route 243/318: GOI -> BLR
+2025-07-19 20:16:55,836 - INFO - Found 13 flights for GOI-BLR
+2025-07-19 20:17:25,867 - INFO - Processing route 244/318: DEL -> HYD
+2025-07-19 20:17:30,206 - INFO - Found 23 flights for DEL-HYD
+2025-07-19 20:18:00,238 - INFO - Processing route 245/318: DEL -> CCU
+2025-07-19 20:18:04,245 - INFO - Found 21 flights for DEL-CCU
+2025-07-19 20:18:34,277 - INFO - Processing route 246/318: GAU -> BLR
+2025-07-19 20:18:36,205 - INFO - Found 6 flights for GAU-BLR
+2025-07-19 20:19:06,236 - INFO - Processing route 247/318: PAT -> DEL
+2025-07-19 20:19:08,384 - INFO - Found 15 flights for PAT-DEL
+2025-07-19 20:19:38,416 - INFO - Processing route 248/318: LKO -> CCU
+2025-07-19 20:19:40,019 - INFO - Found 1 flights for LKO-CCU
+2025-07-19 20:20:10,057 - INFO - Processing route 249/318: PNQ -> BHO
+2025-07-19 20:20:11,771 - INFO - Found 1 flights for PNQ-BHO
+2025-07-19 20:20:41,803 - INFO - Processing route 250/318: PNQ -> JAI
+2025-07-19 20:20:43,848 - INFO - Found 4 flights for PNQ-JAI
+2025-07-19 20:21:13,888 - INFO - Saved 88 flights to CSV
+2025-07-19 20:21:13,890 - INFO - Processing route 251/318: MAA -> IXB
+2025-07-19 20:21:15,497 - INFO - Found 1 flights for MAA-IXB
+2025-07-19 20:21:45,514 - INFO - Processing route 252/318: HYD -> CCU
+2025-07-19 20:21:47,549 - INFO - Found 8 flights for HYD-CCU
+2025-07-19 20:22:17,582 - INFO - Processing route 253/318: IXB -> NAG
+2025-07-19 20:22:19,614 - WARNING - No flights found for IXB-NAG
+2025-07-19 20:22:49,646 - INFO - Processing route 254/318: NAG -> IXZ
+2025-07-19 20:22:51,053 - WARNING - No flights found for NAG-IXZ
+2025-07-19 20:23:21,085 - INFO - Processing route 255/318: CCU -> AMD
+2025-07-19 20:23:23,119 - INFO - Found 5 flights for CCU-AMD
+2025-07-19 20:23:53,151 - INFO - Processing route 256/318: PAT -> HYD
+2025-07-19 20:23:54,890 - INFO - Found 5 flights for PAT-HYD
+2025-07-19 20:24:24,922 - INFO - Processing route 257/318: GAU -> IXZ
+2025-07-19 20:24:26,390 - WARNING - No flights found for GAU-IXZ
+2025-07-19 20:24:56,399 - INFO - Processing route 258/318: PAT -> CCU
+2025-07-19 20:24:58,423 - INFO - Found 2 flights for PAT-CCU
+2025-07-19 20:25:28,435 - INFO - Processing route 259/318: BLR -> IXZ
+2025-07-19 20:25:30,236 - INFO - Found 1 flights for BLR-IXZ
+2025-07-19 20:26:00,263 - INFO - Processing route 260/318: SXR -> HYD
+2025-07-19 20:26:01,988 - WARNING - No flights found for SXR-HYD
+2025-07-19 20:26:32,025 - INFO - Saved 22 flights to CSV
+2025-07-19 20:26:32,027 - INFO - Processing route 261/318: LKO -> IXB
+2025-07-19 20:26:33,317 - WARNING - No flights found for LKO-IXB
+2025-07-19 20:27:03,349 - INFO - Processing route 262/318: JAI -> PAT
+2025-07-19 20:27:18,023 - WARNING - No flights found for JAI-PAT
+2025-07-19 20:27:48,055 - INFO - Processing route 263/318: AMD -> LKO
+2025-07-19 20:27:50,505 - INFO - Found 2 flights for AMD-LKO
+2025-07-19 20:28:20,538 - INFO - Processing route 264/318: AMD -> BLR
+2025-07-19 20:28:22,890 - INFO - Found 7 flights for AMD-BLR
+2025-07-19 20:28:52,922 - INFO - Processing route 265/318: HYD -> IXB
+2025-07-19 20:28:55,080 - INFO - Found 2 flights for HYD-IXB
+2025-07-19 20:29:25,100 - INFO - Processing route 266/318: BOM -> LKO
+2025-07-19 20:29:27,120 - INFO - Found 9 flights for BOM-LKO
+2025-07-19 20:29:57,152 - INFO - Processing route 267/318: BOM -> BLR
+2025-07-19 20:30:00,478 - INFO - Found 31 flights for BOM-BLR
+2025-07-19 20:30:30,510 - INFO - Processing route 268/318: COK -> JAI
+2025-07-19 20:30:32,253 - WARNING - No flights found for COK-JAI
+2025-07-19 20:31:02,285 - INFO - Processing route 269/318: IXC -> NAG
+2025-07-19 20:31:05,094 - WARNING - No flights found for IXC-NAG
+2025-07-19 20:31:35,127 - INFO - Processing route 270/318: PNQ -> RPR
+2025-07-19 20:31:36,858 - INFO - Found 1 flights for PNQ-RPR
+2025-07-19 20:32:06,905 - INFO - Saved 52 flights to CSV
+2025-07-19 20:32:06,908 - INFO - Processing route 271/318: VGA -> HYD
+2025-07-19 20:32:09,954 - INFO - Found 6 flights for VGA-HYD
+2025-07-19 20:32:39,980 - INFO - Processing route 272/318: RPR -> MAA
+2025-07-19 20:32:41,704 - INFO - Found 1 flights for RPR-MAA
+2025-07-19 20:33:11,736 - INFO - Processing route 273/318: HYD -> MAA
+2025-07-19 20:33:14,192 - INFO - Found 13 flights for HYD-MAA
+2025-07-19 20:33:44,224 - INFO - Processing route 274/318: BOM -> IXZ
+2025-07-19 20:33:46,483 - WARNING - No flights found for BOM-IXZ
+2025-07-19 20:34:16,515 - INFO - Processing route 275/318: PNQ -> COK
+2025-07-19 20:34:18,016 - INFO - Found 2 flights for PNQ-COK
+2025-07-19 20:34:48,044 - INFO - Processing route 276/318: PNQ -> DEL
+2025-07-19 20:34:51,953 - INFO - Found 23 flights for PNQ-DEL
+2025-07-19 20:35:21,964 - INFO - Processing route 277/318: JAI -> AMD
+2025-07-19 20:35:29,762 - INFO - Found 3 flights for JAI-AMD
+2025-07-19 20:35:59,800 - INFO - Processing route 278/318: COK -> BOM
+2025-07-19 20:36:04,123 - INFO - Found 10 flights for COK-BOM
+2025-07-19 20:36:34,155 - INFO - Processing route 279/318: CCU -> LKO
+2025-07-19 20:36:41,650 - INFO - Found 1 flights for CCU-LKO
+2025-07-19 20:37:11,652 - INFO - Processing route 280/318: DEL -> LKO
+2025-07-19 20:37:29,365 - INFO - Found 10 flights for DEL-LKO
+2025-07-19 20:37:59,407 - INFO - Saved 69 flights to CSV
+2025-07-19 20:37:59,408 - INFO - Processing route 281/318: CCU -> BLR
+2025-07-19 20:38:04,035 - INFO - Found 16 flights for CCU-BLR
+2025-07-19 20:38:34,067 - INFO - Processing route 282/318: DEL -> BLR
+2025-07-19 20:38:38,093 - INFO - Found 39 flights for DEL-BLR
+2025-07-19 20:39:08,125 - INFO - Processing route 283/318: BLR -> AMD
+2025-07-19 20:39:10,671 - INFO - Found 7 flights for BLR-AMD
+2025-07-19 20:39:40,704 - INFO - Processing route 284/318: AMD -> VGA
+2025-07-19 20:39:42,523 - WARNING - No flights found for AMD-VGA
+2025-07-19 20:40:12,555 - INFO - Processing route 285/318: IXB -> BHO
+2025-07-19 20:40:13,857 - WARNING - No flights found for IXB-BHO
+2025-07-19 20:40:43,889 - INFO - Processing route 286/318: IXC -> PNQ
+2025-07-19 20:40:45,817 - INFO - Found 1 flights for IXC-PNQ
+2025-07-19 20:41:15,840 - INFO - Processing route 287/318: BOM -> VGA
+2025-07-19 20:41:17,680 - INFO - Found 2 flights for BOM-VGA
+2025-07-19 20:41:47,719 - INFO - Processing route 288/318: PNQ -> HYD
+2025-07-19 20:41:50,681 - INFO - Found 9 flights for PNQ-HYD
+2025-07-19 20:42:20,713 - INFO - Processing route 289/318: MAA -> IXZ
+2025-07-19 20:42:22,643 - INFO - Found 4 flights for MAA-IXZ
+2025-07-19 20:42:52,675 - INFO - Processing route 290/318: BLR -> COK
+2025-07-19 20:42:55,123 - INFO - Found 14 flights for BLR-COK
+2025-07-19 20:43:25,173 - INFO - Saved 92 flights to CSV
+2025-07-19 20:43:25,176 - INFO - Processing route 291/318: BHO -> VGA
+2025-07-19 20:43:27,814 - WARNING - No flights found for BHO-VGA
+2025-07-19 20:43:57,847 - INFO - Processing route 292/318: DEL -> IXZ
+2025-07-19 20:44:00,096 - INFO - Found 1 flights for DEL-IXZ
+2025-07-19 20:44:30,129 - INFO - Processing route 293/318: HYD -> PNQ
+2025-07-19 20:44:33,328 - INFO - Found 9 flights for HYD-PNQ
+2025-07-19 20:45:03,360 - INFO - Processing route 294/318: PAT -> BLR
+2025-07-19 20:45:05,138 - INFO - Found 6 flights for PAT-BLR
+2025-07-19 20:45:35,148 - INFO - Processing route 295/318: GAU -> PAT
+2025-07-19 20:45:37,122 - INFO - Found 2 flights for GAU-PAT
+2025-07-19 20:46:07,152 - INFO - Processing route 296/318: AMD -> GAU
+2025-07-19 20:46:09,921 - INFO - Found 1 flights for AMD-GAU
+2025-07-19 20:46:39,952 - INFO - Processing route 297/318: AMD -> SXR
+2025-07-19 20:46:41,046 - WARNING - No flights found for AMD-SXR
+2025-07-19 20:47:11,062 - INFO - Processing route 298/318: LKO -> IXZ
+2025-07-19 20:47:13,527 - WARNING - No flights found for LKO-IXZ
+2025-07-19 20:47:43,567 - INFO - Processing route 299/318: SXR -> BLR
+2025-07-19 20:47:44,065 - ERROR - Request failed for SXR-BLR: 504 Server Error: Gateway Timeout for url: https://www.nomadiq.co.in/api/search
+2025-07-19 20:48:14,101 - INFO - Processing route 300/318: BOM -> GAU
+2025-07-19 20:48:14,731 - ERROR - Request failed for BOM-GAU: 504 Server Error: Gateway Timeout for url: https://www.nomadiq.co.in/api/search
+2025-07-19 20:48:44,779 - INFO - Saved 19 flights to CSV
+2025-07-19 20:48:44,781 - INFO - Processing route 301/318: IXC -> BHO
+2025-07-19 20:48:45,335 - ERROR - Request failed for IXC-BHO: 504 Server Error: Gateway Timeout for url: https://www.nomadiq.co.in/api/search
+2025-07-19 20:49:15,371 - INFO - Processing route 302/318: TRV -> VGA
+2025-07-19 20:49:17,210 - WARNING - No flights found for TRV-VGA
+2025-07-19 20:49:47,242 - INFO - Processing route 303/318: BLR -> HYD
+2025-07-19 20:49:51,048 - INFO - Found 21 flights for BLR-HYD
+2025-07-19 20:50:21,081 - INFO - Processing route 304/318: BHO -> SXR
+2025-07-19 20:50:23,518 - WARNING - No flights found for BHO-SXR
+2025-07-19 20:50:53,552 - INFO - Processing route 305/318: PAT -> IXZ
+2025-07-19 20:50:55,374 - WARNING - No flights found for PAT-IXZ
+2025-07-19 20:51:25,406 - INFO - Processing route 306/318: CCU -> VGA
+2025-07-19 20:51:27,020 - WARNING - No flights found for CCU-VGA
+2025-07-19 20:51:57,054 - INFO - Processing route 307/318: COK -> HYD
+2025-07-19 20:51:58,881 - INFO - Found 8 flights for COK-HYD
+2025-07-19 20:52:28,912 - INFO - Processing route 308/318: SXR -> IXC
+2025-07-19 20:52:30,734 - WARNING - No flights found for SXR-IXC
+2025-07-19 20:53:00,767 - INFO - Processing route 309/318: RPR -> BHO
+2025-07-19 20:53:02,489 - WARNING - No flights found for RPR-BHO
+2025-07-19 20:53:32,516 - INFO - Processing route 310/318: IXB -> RPR
+2025-07-19 20:53:34,030 - WARNING - No flights found for IXB-RPR
+2025-07-19 20:54:04,069 - INFO - Saved 29 flights to CSV
+2025-07-19 20:54:04,073 - INFO - Processing route 311/318: RPR -> SXR
+2025-07-19 20:54:05,573 - WARNING - No flights found for RPR-SXR
+2025-07-19 20:54:35,606 - INFO - Processing route 312/318: HYD -> JAI
+2025-07-19 20:54:38,343 - INFO - Found 5 flights for HYD-JAI
+2025-07-19 20:55:08,376 - INFO - Processing route 313/318: IXC -> TRV
+2025-07-19 20:55:10,196 - WARNING - No flights found for IXC-TRV
+2025-07-19 20:55:40,229 - INFO - Processing route 314/318: VGA -> BLR
+2025-07-19 20:55:41,897 - INFO - Found 4 flights for VGA-BLR
+2025-07-19 20:56:11,906 - INFO - Processing route 315/318: AMD -> PAT
+2025-07-19 20:56:14,044 - INFO - Found 1 flights for AMD-PAT
+2025-07-19 20:56:44,083 - INFO - Processing route 316/318: TRV -> SXR
+2025-07-19 20:56:55,404 - WARNING - No flights found for TRV-SXR
+2025-07-19 20:57:25,431 - INFO - Processing route 317/318: CCU -> GAU
+2025-07-19 20:57:28,312 - INFO - Found 9 flights for CCU-GAU
+2025-07-19 20:57:58,345 - INFO - Processing route 318/318: DEL -> GAU
+2025-07-19 20:58:01,537 - INFO - Found 13 flights for DEL-GAU
+2025-07-19 20:58:31,584 - INFO - Saved final 32 flights to CSV
+2025-07-19 20:58:31,586 - INFO - Data collection complete!
+2025-07-19 20:58:31,589 - INFO - Successful routes: 206
+2025-07-19 20:58:31,591 - INFO - Failed routes: 112
